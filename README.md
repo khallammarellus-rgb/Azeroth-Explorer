@@ -21,10 +21,9 @@ Download and install **Google Earth Pro** from Google's Earth versions page. Lau
 
 ## Open this map
 
-1. Put all downloaded parts in one folder.
-2. Join them (see `HOW_TO_JOIN.txt`), then unzip the joined archive.
-3. Keep `Azeroth Explorer.kml`, `kml/`, and `tiles/` together.
-4. In Google Earth Pro, choose **File → Open** and select **`Azeroth Explorer.kml`**.
+1. Unzip **`Azeroth-Explorer-3.0.0-MAP.zip`** into a folder.
+2. Keep `Azeroth Explorer.kml`, `kml/`, and `tiles/` together in that folder.
+3. In Google Earth Pro, choose **File → Open** and select **`Azeroth Explorer.kml`**.
 
 ## Navigate
 

@@ -8,8 +8,8 @@
   "extra_regions": [],
   "github_repo": "khallammarellus-rgb/Azeroth-Explorer",
   "commander_repo": "khallammarellus-rgb/Warcraft-Commander",
-  "github_releases_url": "",
-  "github_pages_url": "",
+  "github_releases_url": "https://github.com/khallammarellus-rgb/Azeroth-Explorer/releases",
+  "github_pages_url": "https://khallammarellus-rgb.github.io/Azeroth-Explorer/",
   "regions": [
     "kalimdor",
     "eastern_kingdoms",
