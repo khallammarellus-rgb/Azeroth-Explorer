@@ -1,5 +1,12 @@
 # macOS
 .DS_Store
 
-# Release zips — too large for git (upload exports/*-parts/ to GitHub Releases)
+# Map tiles — use --push (default) to upload in 1 GB git batches instead
+tiles/
 exports/
+*.zip
+*.z01
+*.z02
+*.z03
+*.z04
+*.z05

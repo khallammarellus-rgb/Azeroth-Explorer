@@ -9,11 +9,14 @@ Fly around World of Warcraft's Azeroth in **Google Earth Pro** — maps only. No
 
 ## Download
 
-On GitHub Releases, under **Assets**, download **only**:
+This repo is a **standalone map** — you do not need WoW Commander.
 
-- **`Azeroth-Explorer-3.0.0-MAP.zip`**
+1. Open **https://github.com/khallammarellus-rgb/Azeroth-Explorer**
+2. Click **Code → Download ZIP**
+3. Unzip the folder (e.g. `Azeroth-Explorer-main`)
+4. Inside that folder, keep these together: `Azeroth Explorer.kml`, `kml/`, `tiles/`
 
-**Do not** download “Source code (zip)” or “Source code (tar.gz)” — those are the project repo, not the map.
+Optional: on **Releases**, you can also download **`Azeroth-Explorer-3.0.0-MAP.zip`** if you prefer one archive.
 
 ## Install Google Earth Pro
 
@@ -21,9 +24,9 @@ Download and install **Google Earth Pro** from Google's Earth versions page. Lau
 
 ## Open this map
 
-1. Unzip **`Azeroth-Explorer-3.0.0-MAP.zip`** into a folder.
-2. Keep `Azeroth Explorer.kml`, `kml/`, and `tiles/` together in that folder.
-3. In Google Earth Pro, choose **File → Open** and select **`Azeroth Explorer.kml`**.
+1. In Google Earth Pro, choose **File → Open**
+2. Select **`Azeroth Explorer.kml`** from inside the unzipped folder
+3. Do not move `Azeroth Explorer.kml` away from `kml/` and `tiles/`
 
 ## Navigate
 
@@ -77,7 +80,7 @@ Outland, Draenor, Shadowlands, and other extra-world zones will ship under **Map
 
 ## Updates
 
-Download the latest zip from GitHub Releases: https://github.com/khallammarellus-rgb/Azeroth-Explorer/releases
+Get updates from https://github.com/khallammarellus-rgb/Azeroth-Explorer
 
 Replace your old folder with the new unzip, or use a fresh folder each time.
 
