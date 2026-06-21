@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/helheim/0/0/0.png</href>
+        <href>tiles/helheim/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>36.95340000</north>

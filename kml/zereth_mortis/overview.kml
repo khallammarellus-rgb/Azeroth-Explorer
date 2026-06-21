@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/zereth_mortis/0/0/0.png</href>
+        <href>tiles/zereth_mortis/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-3.04510000</north>

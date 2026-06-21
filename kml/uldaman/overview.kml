@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/uldaman/0/0/0.png</href>
+        <href>tiles/uldaman/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>14.34290000</north>

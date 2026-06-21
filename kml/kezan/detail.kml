@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/1/0/0.png</href>
+        <href>tiles/kezan/1/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -51,7 +51,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/1/0/1.png</href>
+        <href>tiles/kezan/1/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -76,7 +76,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/0.png</href>
+        <href>tiles/kezan/6/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -101,7 +101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/0.png</href>
+        <href>tiles/kezan/6/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -126,7 +126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/0.png</href>
+        <href>tiles/kezan/6/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -151,7 +151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/0.png</href>
+        <href>tiles/kezan/6/3/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -176,7 +176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/0.png</href>
+        <href>tiles/kezan/6/4/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -201,7 +201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/0.png</href>
+        <href>tiles/kezan/6/5/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -226,7 +226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/0.png</href>
+        <href>tiles/kezan/6/6/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -251,7 +251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/0.png</href>
+        <href>tiles/kezan/6/7/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -276,7 +276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/0.png</href>
+        <href>tiles/kezan/6/8/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -301,7 +301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/0.png</href>
+        <href>tiles/kezan/6/9/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -326,7 +326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/0.png</href>
+        <href>tiles/kezan/6/10/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -351,7 +351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/0.png</href>
+        <href>tiles/kezan/6/11/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -376,7 +376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/0.png</href>
+        <href>tiles/kezan/6/12/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -401,7 +401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/0.png</href>
+        <href>tiles/kezan/6/13/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -426,7 +426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/0.png</href>
+        <href>tiles/kezan/6/14/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -451,7 +451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/0.png</href>
+        <href>tiles/kezan/6/15/0.png</href>
       </Icon>
       <LatLonBox>
         <north>9.03380000</north>
@@ -476,7 +476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/1.png</href>
+        <href>tiles/kezan/6/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -501,7 +501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/1.png</href>
+        <href>tiles/kezan/6/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -526,7 +526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/1.png</href>
+        <href>tiles/kezan/6/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -551,7 +551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/1.png</href>
+        <href>tiles/kezan/6/3/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -576,7 +576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/1.png</href>
+        <href>tiles/kezan/6/4/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -601,7 +601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/1.png</href>
+        <href>tiles/kezan/6/5/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -626,7 +626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/1.png</href>
+        <href>tiles/kezan/6/6/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -651,7 +651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/1.png</href>
+        <href>tiles/kezan/6/7/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -676,7 +676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/1.png</href>
+        <href>tiles/kezan/6/8/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -701,7 +701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/1.png</href>
+        <href>tiles/kezan/6/9/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -726,7 +726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/1.png</href>
+        <href>tiles/kezan/6/10/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -751,7 +751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/1.png</href>
+        <href>tiles/kezan/6/11/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -776,7 +776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/1.png</href>
+        <href>tiles/kezan/6/12/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -801,7 +801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/1.png</href>
+        <href>tiles/kezan/6/13/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -826,7 +826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/1.png</href>
+        <href>tiles/kezan/6/14/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -851,7 +851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/1.png</href>
+        <href>tiles/kezan/6/15/1.png</href>
       </Icon>
       <LatLonBox>
         <north>8.94726154</north>
@@ -876,7 +876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/2.png</href>
+        <href>tiles/kezan/6/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -901,7 +901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/2.png</href>
+        <href>tiles/kezan/6/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -926,7 +926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/2.png</href>
+        <href>tiles/kezan/6/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -951,7 +951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/2.png</href>
+        <href>tiles/kezan/6/3/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -976,7 +976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/2.png</href>
+        <href>tiles/kezan/6/4/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1001,7 +1001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/2.png</href>
+        <href>tiles/kezan/6/5/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1026,7 +1026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/2.png</href>
+        <href>tiles/kezan/6/6/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1051,7 +1051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/2.png</href>
+        <href>tiles/kezan/6/7/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1076,7 +1076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/2.png</href>
+        <href>tiles/kezan/6/8/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1101,7 +1101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/2.png</href>
+        <href>tiles/kezan/6/9/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1126,7 +1126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/2.png</href>
+        <href>tiles/kezan/6/10/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1151,7 +1151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/2.png</href>
+        <href>tiles/kezan/6/11/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1176,7 +1176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/2.png</href>
+        <href>tiles/kezan/6/12/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1201,7 +1201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/2.png</href>
+        <href>tiles/kezan/6/13/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1226,7 +1226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/2.png</href>
+        <href>tiles/kezan/6/14/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1251,7 +1251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/2.png</href>
+        <href>tiles/kezan/6/15/2.png</href>
       </Icon>
       <LatLonBox>
         <north>8.86072308</north>
@@ -1276,7 +1276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/3.png</href>
+        <href>tiles/kezan/6/0/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1301,7 +1301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/3.png</href>
+        <href>tiles/kezan/6/1/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1326,7 +1326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/3.png</href>
+        <href>tiles/kezan/6/2/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1351,7 +1351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/3.png</href>
+        <href>tiles/kezan/6/3/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1376,7 +1376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/3.png</href>
+        <href>tiles/kezan/6/4/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1401,7 +1401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/3.png</href>
+        <href>tiles/kezan/6/5/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1426,7 +1426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/3.png</href>
+        <href>tiles/kezan/6/6/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1451,7 +1451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/3.png</href>
+        <href>tiles/kezan/6/7/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1476,7 +1476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/3.png</href>
+        <href>tiles/kezan/6/8/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1501,7 +1501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/3.png</href>
+        <href>tiles/kezan/6/9/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1526,7 +1526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/3.png</href>
+        <href>tiles/kezan/6/10/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1551,7 +1551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/3.png</href>
+        <href>tiles/kezan/6/11/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1576,7 +1576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/3.png</href>
+        <href>tiles/kezan/6/12/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1601,7 +1601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/3.png</href>
+        <href>tiles/kezan/6/13/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1626,7 +1626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/3.png</href>
+        <href>tiles/kezan/6/14/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1651,7 +1651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/3.png</href>
+        <href>tiles/kezan/6/15/3.png</href>
       </Icon>
       <LatLonBox>
         <north>8.77418462</north>
@@ -1676,7 +1676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/4.png</href>
+        <href>tiles/kezan/6/0/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1701,7 +1701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/4.png</href>
+        <href>tiles/kezan/6/1/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1726,7 +1726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/4.png</href>
+        <href>tiles/kezan/6/2/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1751,7 +1751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/4.png</href>
+        <href>tiles/kezan/6/3/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1776,7 +1776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/4.png</href>
+        <href>tiles/kezan/6/4/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1801,7 +1801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/4.png</href>
+        <href>tiles/kezan/6/5/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1826,7 +1826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/4.png</href>
+        <href>tiles/kezan/6/6/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1851,7 +1851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/4.png</href>
+        <href>tiles/kezan/6/7/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1876,7 +1876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/4.png</href>
+        <href>tiles/kezan/6/8/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1901,7 +1901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/4.png</href>
+        <href>tiles/kezan/6/9/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1926,7 +1926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/4.png</href>
+        <href>tiles/kezan/6/10/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1951,7 +1951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/4.png</href>
+        <href>tiles/kezan/6/11/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -1976,7 +1976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/4.png</href>
+        <href>tiles/kezan/6/12/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -2001,7 +2001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/4.png</href>
+        <href>tiles/kezan/6/13/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -2026,7 +2026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/4.png</href>
+        <href>tiles/kezan/6/14/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -2051,7 +2051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/4.png</href>
+        <href>tiles/kezan/6/15/4.png</href>
       </Icon>
       <LatLonBox>
         <north>8.68764615</north>
@@ -2076,7 +2076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/5.png</href>
+        <href>tiles/kezan/6/0/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2101,7 +2101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/5.png</href>
+        <href>tiles/kezan/6/1/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2126,7 +2126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/5.png</href>
+        <href>tiles/kezan/6/2/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2151,7 +2151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/5.png</href>
+        <href>tiles/kezan/6/3/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2176,7 +2176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/5.png</href>
+        <href>tiles/kezan/6/4/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2201,7 +2201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/5.png</href>
+        <href>tiles/kezan/6/5/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2226,7 +2226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/5.png</href>
+        <href>tiles/kezan/6/6/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2251,7 +2251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/5.png</href>
+        <href>tiles/kezan/6/7/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2276,7 +2276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/5.png</href>
+        <href>tiles/kezan/6/8/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2301,7 +2301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/5.png</href>
+        <href>tiles/kezan/6/9/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2326,7 +2326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/5.png</href>
+        <href>tiles/kezan/6/10/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2351,7 +2351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/5.png</href>
+        <href>tiles/kezan/6/11/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2376,7 +2376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/5.png</href>
+        <href>tiles/kezan/6/12/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2401,7 +2401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/5.png</href>
+        <href>tiles/kezan/6/13/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2426,7 +2426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/5.png</href>
+        <href>tiles/kezan/6/14/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2451,7 +2451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/5.png</href>
+        <href>tiles/kezan/6/15/5.png</href>
       </Icon>
       <LatLonBox>
         <north>8.60110769</north>
@@ -2476,7 +2476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/6.png</href>
+        <href>tiles/kezan/6/0/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2501,7 +2501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/6.png</href>
+        <href>tiles/kezan/6/1/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2526,7 +2526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/6.png</href>
+        <href>tiles/kezan/6/2/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2551,7 +2551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/6.png</href>
+        <href>tiles/kezan/6/3/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2576,7 +2576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/6.png</href>
+        <href>tiles/kezan/6/4/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2601,7 +2601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/6.png</href>
+        <href>tiles/kezan/6/5/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2626,7 +2626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/6.png</href>
+        <href>tiles/kezan/6/6/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2651,7 +2651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/6.png</href>
+        <href>tiles/kezan/6/7/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2676,7 +2676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/6.png</href>
+        <href>tiles/kezan/6/8/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2701,7 +2701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/6.png</href>
+        <href>tiles/kezan/6/9/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2726,7 +2726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/6.png</href>
+        <href>tiles/kezan/6/10/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2751,7 +2751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/6.png</href>
+        <href>tiles/kezan/6/11/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2776,7 +2776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/6.png</href>
+        <href>tiles/kezan/6/12/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2801,7 +2801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/6.png</href>
+        <href>tiles/kezan/6/13/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2826,7 +2826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/6.png</href>
+        <href>tiles/kezan/6/14/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2851,7 +2851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/6.png</href>
+        <href>tiles/kezan/6/15/6.png</href>
       </Icon>
       <LatLonBox>
         <north>8.51456923</north>
@@ -2876,7 +2876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/7.png</href>
+        <href>tiles/kezan/6/0/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -2901,7 +2901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/7.png</href>
+        <href>tiles/kezan/6/1/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -2926,7 +2926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/7.png</href>
+        <href>tiles/kezan/6/2/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -2951,7 +2951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/7.png</href>
+        <href>tiles/kezan/6/3/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -2976,7 +2976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/7.png</href>
+        <href>tiles/kezan/6/4/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3001,7 +3001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/7.png</href>
+        <href>tiles/kezan/6/5/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3026,7 +3026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/7.png</href>
+        <href>tiles/kezan/6/6/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3051,7 +3051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/7.png</href>
+        <href>tiles/kezan/6/7/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3076,7 +3076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/7.png</href>
+        <href>tiles/kezan/6/8/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3101,7 +3101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/7.png</href>
+        <href>tiles/kezan/6/9/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3126,7 +3126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/7.png</href>
+        <href>tiles/kezan/6/10/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3151,7 +3151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/7.png</href>
+        <href>tiles/kezan/6/11/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3176,7 +3176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/7.png</href>
+        <href>tiles/kezan/6/12/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3201,7 +3201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/7.png</href>
+        <href>tiles/kezan/6/13/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3226,7 +3226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/7.png</href>
+        <href>tiles/kezan/6/14/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3251,7 +3251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/7.png</href>
+        <href>tiles/kezan/6/15/7.png</href>
       </Icon>
       <LatLonBox>
         <north>8.42803077</north>
@@ -3276,7 +3276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/8.png</href>
+        <href>tiles/kezan/6/0/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3301,7 +3301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/8.png</href>
+        <href>tiles/kezan/6/1/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3326,7 +3326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/8.png</href>
+        <href>tiles/kezan/6/2/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3351,7 +3351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/8.png</href>
+        <href>tiles/kezan/6/3/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3376,7 +3376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/8.png</href>
+        <href>tiles/kezan/6/4/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3401,7 +3401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/8.png</href>
+        <href>tiles/kezan/6/5/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3426,7 +3426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/8.png</href>
+        <href>tiles/kezan/6/6/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3451,7 +3451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/8.png</href>
+        <href>tiles/kezan/6/7/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3476,7 +3476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/8.png</href>
+        <href>tiles/kezan/6/8/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3501,7 +3501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/8.png</href>
+        <href>tiles/kezan/6/9/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3526,7 +3526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/8.png</href>
+        <href>tiles/kezan/6/10/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3551,7 +3551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/8.png</href>
+        <href>tiles/kezan/6/11/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3576,7 +3576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/8.png</href>
+        <href>tiles/kezan/6/12/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3601,7 +3601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/8.png</href>
+        <href>tiles/kezan/6/13/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3626,7 +3626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/8.png</href>
+        <href>tiles/kezan/6/14/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3651,7 +3651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/8.png</href>
+        <href>tiles/kezan/6/15/8.png</href>
       </Icon>
       <LatLonBox>
         <north>8.34149231</north>
@@ -3676,7 +3676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/9.png</href>
+        <href>tiles/kezan/6/0/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3701,7 +3701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/9.png</href>
+        <href>tiles/kezan/6/1/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3726,7 +3726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/9.png</href>
+        <href>tiles/kezan/6/2/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3751,7 +3751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/9.png</href>
+        <href>tiles/kezan/6/3/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3776,7 +3776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/9.png</href>
+        <href>tiles/kezan/6/4/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3801,7 +3801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/9.png</href>
+        <href>tiles/kezan/6/5/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3826,7 +3826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/9.png</href>
+        <href>tiles/kezan/6/6/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3851,7 +3851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/9.png</href>
+        <href>tiles/kezan/6/7/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3876,7 +3876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/9.png</href>
+        <href>tiles/kezan/6/8/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3901,7 +3901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/9.png</href>
+        <href>tiles/kezan/6/9/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3926,7 +3926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/9.png</href>
+        <href>tiles/kezan/6/10/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3951,7 +3951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/9.png</href>
+        <href>tiles/kezan/6/11/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -3976,7 +3976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/9.png</href>
+        <href>tiles/kezan/6/12/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -4001,7 +4001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/9.png</href>
+        <href>tiles/kezan/6/13/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -4026,7 +4026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/9.png</href>
+        <href>tiles/kezan/6/14/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -4051,7 +4051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/9.png</href>
+        <href>tiles/kezan/6/15/9.png</href>
       </Icon>
       <LatLonBox>
         <north>8.25495385</north>
@@ -4076,7 +4076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/10.png</href>
+        <href>tiles/kezan/6/0/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4101,7 +4101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/10.png</href>
+        <href>tiles/kezan/6/1/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4126,7 +4126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/10.png</href>
+        <href>tiles/kezan/6/2/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4151,7 +4151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/10.png</href>
+        <href>tiles/kezan/6/3/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4176,7 +4176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/10.png</href>
+        <href>tiles/kezan/6/4/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4201,7 +4201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/10.png</href>
+        <href>tiles/kezan/6/5/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4226,7 +4226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/10.png</href>
+        <href>tiles/kezan/6/6/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4251,7 +4251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/10.png</href>
+        <href>tiles/kezan/6/7/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4276,7 +4276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/10.png</href>
+        <href>tiles/kezan/6/8/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4301,7 +4301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/10.png</href>
+        <href>tiles/kezan/6/9/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4326,7 +4326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/10.png</href>
+        <href>tiles/kezan/6/10/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4351,7 +4351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/10.png</href>
+        <href>tiles/kezan/6/11/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4376,7 +4376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/10.png</href>
+        <href>tiles/kezan/6/12/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4401,7 +4401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/10.png</href>
+        <href>tiles/kezan/6/13/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4426,7 +4426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/10.png</href>
+        <href>tiles/kezan/6/14/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4451,7 +4451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/10.png</href>
+        <href>tiles/kezan/6/15/10.png</href>
       </Icon>
       <LatLonBox>
         <north>8.16841538</north>
@@ -4476,7 +4476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/11.png</href>
+        <href>tiles/kezan/6/0/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4501,7 +4501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/11.png</href>
+        <href>tiles/kezan/6/1/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4526,7 +4526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/11.png</href>
+        <href>tiles/kezan/6/2/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4551,7 +4551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/11.png</href>
+        <href>tiles/kezan/6/3/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4576,7 +4576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/11.png</href>
+        <href>tiles/kezan/6/4/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4601,7 +4601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/11.png</href>
+        <href>tiles/kezan/6/5/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4626,7 +4626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/11.png</href>
+        <href>tiles/kezan/6/6/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4651,7 +4651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/11.png</href>
+        <href>tiles/kezan/6/7/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4676,7 +4676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/11.png</href>
+        <href>tiles/kezan/6/8/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4701,7 +4701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/11.png</href>
+        <href>tiles/kezan/6/9/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4726,7 +4726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/11.png</href>
+        <href>tiles/kezan/6/10/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4751,7 +4751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/11.png</href>
+        <href>tiles/kezan/6/11/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4776,7 +4776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/11.png</href>
+        <href>tiles/kezan/6/12/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4801,7 +4801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/11.png</href>
+        <href>tiles/kezan/6/13/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4826,7 +4826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/11.png</href>
+        <href>tiles/kezan/6/14/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4851,7 +4851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/11.png</href>
+        <href>tiles/kezan/6/15/11.png</href>
       </Icon>
       <LatLonBox>
         <north>8.08187692</north>
@@ -4876,7 +4876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/12.png</href>
+        <href>tiles/kezan/6/0/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -4901,7 +4901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/12.png</href>
+        <href>tiles/kezan/6/1/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -4926,7 +4926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/12.png</href>
+        <href>tiles/kezan/6/2/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -4951,7 +4951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/12.png</href>
+        <href>tiles/kezan/6/3/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -4976,7 +4976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/12.png</href>
+        <href>tiles/kezan/6/4/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5001,7 +5001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/12.png</href>
+        <href>tiles/kezan/6/5/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5026,7 +5026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/12.png</href>
+        <href>tiles/kezan/6/6/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5051,7 +5051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/12.png</href>
+        <href>tiles/kezan/6/7/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5076,7 +5076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/12.png</href>
+        <href>tiles/kezan/6/8/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5101,7 +5101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/12.png</href>
+        <href>tiles/kezan/6/9/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5126,7 +5126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/12.png</href>
+        <href>tiles/kezan/6/10/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5151,7 +5151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/12.png</href>
+        <href>tiles/kezan/6/11/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5176,7 +5176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/12.png</href>
+        <href>tiles/kezan/6/12/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5201,7 +5201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/12.png</href>
+        <href>tiles/kezan/6/13/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5226,7 +5226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/12.png</href>
+        <href>tiles/kezan/6/14/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5251,7 +5251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/12.png</href>
+        <href>tiles/kezan/6/15/12.png</href>
       </Icon>
       <LatLonBox>
         <north>7.99533846</north>
@@ -5276,7 +5276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/13.png</href>
+        <href>tiles/kezan/6/0/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5301,7 +5301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/13.png</href>
+        <href>tiles/kezan/6/1/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5326,7 +5326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/13.png</href>
+        <href>tiles/kezan/6/2/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5351,7 +5351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/13.png</href>
+        <href>tiles/kezan/6/3/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5376,7 +5376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/13.png</href>
+        <href>tiles/kezan/6/4/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5401,7 +5401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/13.png</href>
+        <href>tiles/kezan/6/5/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5426,7 +5426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/13.png</href>
+        <href>tiles/kezan/6/6/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5451,7 +5451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/13.png</href>
+        <href>tiles/kezan/6/7/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5476,7 +5476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/13.png</href>
+        <href>tiles/kezan/6/8/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5501,7 +5501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/13.png</href>
+        <href>tiles/kezan/6/9/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5526,7 +5526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/13.png</href>
+        <href>tiles/kezan/6/10/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5551,7 +5551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/13.png</href>
+        <href>tiles/kezan/6/11/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5576,7 +5576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/13.png</href>
+        <href>tiles/kezan/6/12/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5601,7 +5601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/13.png</href>
+        <href>tiles/kezan/6/13/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5626,7 +5626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/13.png</href>
+        <href>tiles/kezan/6/14/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5651,7 +5651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/13.png</href>
+        <href>tiles/kezan/6/15/13.png</href>
       </Icon>
       <LatLonBox>
         <north>7.90880000</north>
@@ -5676,7 +5676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/14.png</href>
+        <href>tiles/kezan/6/0/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5701,7 +5701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/14.png</href>
+        <href>tiles/kezan/6/1/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5726,7 +5726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/14.png</href>
+        <href>tiles/kezan/6/2/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5751,7 +5751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/14.png</href>
+        <href>tiles/kezan/6/3/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5776,7 +5776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/14.png</href>
+        <href>tiles/kezan/6/4/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5801,7 +5801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/14.png</href>
+        <href>tiles/kezan/6/5/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5826,7 +5826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/14.png</href>
+        <href>tiles/kezan/6/6/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5851,7 +5851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/14.png</href>
+        <href>tiles/kezan/6/7/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5876,7 +5876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/14.png</href>
+        <href>tiles/kezan/6/8/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5901,7 +5901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/14.png</href>
+        <href>tiles/kezan/6/9/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5926,7 +5926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/14.png</href>
+        <href>tiles/kezan/6/10/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5951,7 +5951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/14.png</href>
+        <href>tiles/kezan/6/11/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -5976,7 +5976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/14.png</href>
+        <href>tiles/kezan/6/12/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -6001,7 +6001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/14.png</href>
+        <href>tiles/kezan/6/13/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -6026,7 +6026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/14.png</href>
+        <href>tiles/kezan/6/14/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -6051,7 +6051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/14.png</href>
+        <href>tiles/kezan/6/15/14.png</href>
       </Icon>
       <LatLonBox>
         <north>7.82226154</north>
@@ -6076,7 +6076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/15.png</href>
+        <href>tiles/kezan/6/0/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6101,7 +6101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/15.png</href>
+        <href>tiles/kezan/6/1/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6126,7 +6126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/15.png</href>
+        <href>tiles/kezan/6/2/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6151,7 +6151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/15.png</href>
+        <href>tiles/kezan/6/3/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6176,7 +6176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/15.png</href>
+        <href>tiles/kezan/6/4/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6201,7 +6201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/15.png</href>
+        <href>tiles/kezan/6/5/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6226,7 +6226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/15.png</href>
+        <href>tiles/kezan/6/6/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6251,7 +6251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/15.png</href>
+        <href>tiles/kezan/6/7/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6276,7 +6276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/15.png</href>
+        <href>tiles/kezan/6/8/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6301,7 +6301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/15.png</href>
+        <href>tiles/kezan/6/9/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6326,7 +6326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/15.png</href>
+        <href>tiles/kezan/6/10/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6351,7 +6351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/15.png</href>
+        <href>tiles/kezan/6/11/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6376,7 +6376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/15.png</href>
+        <href>tiles/kezan/6/12/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6401,7 +6401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/15.png</href>
+        <href>tiles/kezan/6/13/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6426,7 +6426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/15.png</href>
+        <href>tiles/kezan/6/14/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6451,7 +6451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/15.png</href>
+        <href>tiles/kezan/6/15/15.png</href>
       </Icon>
       <LatLonBox>
         <north>7.73572308</north>
@@ -6476,7 +6476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/16.png</href>
+        <href>tiles/kezan/6/0/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6501,7 +6501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/16.png</href>
+        <href>tiles/kezan/6/1/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6526,7 +6526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/16.png</href>
+        <href>tiles/kezan/6/2/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6551,7 +6551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/16.png</href>
+        <href>tiles/kezan/6/3/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6576,7 +6576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/16.png</href>
+        <href>tiles/kezan/6/4/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6601,7 +6601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/16.png</href>
+        <href>tiles/kezan/6/5/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6626,7 +6626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/16.png</href>
+        <href>tiles/kezan/6/6/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6651,7 +6651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/16.png</href>
+        <href>tiles/kezan/6/7/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6676,7 +6676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/16.png</href>
+        <href>tiles/kezan/6/8/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6701,7 +6701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/16.png</href>
+        <href>tiles/kezan/6/9/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6726,7 +6726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/16.png</href>
+        <href>tiles/kezan/6/10/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6751,7 +6751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/16.png</href>
+        <href>tiles/kezan/6/11/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6776,7 +6776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/16.png</href>
+        <href>tiles/kezan/6/12/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6801,7 +6801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/16.png</href>
+        <href>tiles/kezan/6/13/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6826,7 +6826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/16.png</href>
+        <href>tiles/kezan/6/14/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6851,7 +6851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/16.png</href>
+        <href>tiles/kezan/6/15/16.png</href>
       </Icon>
       <LatLonBox>
         <north>7.64918462</north>
@@ -6876,7 +6876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/17.png</href>
+        <href>tiles/kezan/6/0/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -6901,7 +6901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/17.png</href>
+        <href>tiles/kezan/6/1/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -6926,7 +6926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/17.png</href>
+        <href>tiles/kezan/6/2/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -6951,7 +6951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/17.png</href>
+        <href>tiles/kezan/6/3/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -6976,7 +6976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/17.png</href>
+        <href>tiles/kezan/6/4/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7001,7 +7001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/17.png</href>
+        <href>tiles/kezan/6/5/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7026,7 +7026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/17.png</href>
+        <href>tiles/kezan/6/6/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7051,7 +7051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/17.png</href>
+        <href>tiles/kezan/6/7/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7076,7 +7076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/17.png</href>
+        <href>tiles/kezan/6/8/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7101,7 +7101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/17.png</href>
+        <href>tiles/kezan/6/9/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7126,7 +7126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/17.png</href>
+        <href>tiles/kezan/6/10/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7151,7 +7151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/17.png</href>
+        <href>tiles/kezan/6/11/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7176,7 +7176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/17.png</href>
+        <href>tiles/kezan/6/12/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7201,7 +7201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/17.png</href>
+        <href>tiles/kezan/6/13/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7226,7 +7226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/17.png</href>
+        <href>tiles/kezan/6/14/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7251,7 +7251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/17.png</href>
+        <href>tiles/kezan/6/15/17.png</href>
       </Icon>
       <LatLonBox>
         <north>7.56264615</north>
@@ -7276,7 +7276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/18.png</href>
+        <href>tiles/kezan/6/0/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7301,7 +7301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/18.png</href>
+        <href>tiles/kezan/6/1/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7326,7 +7326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/18.png</href>
+        <href>tiles/kezan/6/2/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7351,7 +7351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/18.png</href>
+        <href>tiles/kezan/6/3/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7376,7 +7376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/18.png</href>
+        <href>tiles/kezan/6/4/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7401,7 +7401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/18.png</href>
+        <href>tiles/kezan/6/5/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7426,7 +7426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/18.png</href>
+        <href>tiles/kezan/6/6/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7451,7 +7451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/18.png</href>
+        <href>tiles/kezan/6/7/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7476,7 +7476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/18.png</href>
+        <href>tiles/kezan/6/8/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7501,7 +7501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/18.png</href>
+        <href>tiles/kezan/6/9/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7526,7 +7526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/18.png</href>
+        <href>tiles/kezan/6/10/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7551,7 +7551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/18.png</href>
+        <href>tiles/kezan/6/11/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7576,7 +7576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/18.png</href>
+        <href>tiles/kezan/6/12/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7601,7 +7601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/18.png</href>
+        <href>tiles/kezan/6/13/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7626,7 +7626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/18.png</href>
+        <href>tiles/kezan/6/14/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7651,7 +7651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/18.png</href>
+        <href>tiles/kezan/6/15/18.png</href>
       </Icon>
       <LatLonBox>
         <north>7.47610769</north>
@@ -7676,7 +7676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/19.png</href>
+        <href>tiles/kezan/6/0/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7701,7 +7701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/19.png</href>
+        <href>tiles/kezan/6/1/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7726,7 +7726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/19.png</href>
+        <href>tiles/kezan/6/2/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7751,7 +7751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/19.png</href>
+        <href>tiles/kezan/6/3/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7776,7 +7776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/19.png</href>
+        <href>tiles/kezan/6/4/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7801,7 +7801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/19.png</href>
+        <href>tiles/kezan/6/5/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7826,7 +7826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/19.png</href>
+        <href>tiles/kezan/6/6/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7851,7 +7851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/19.png</href>
+        <href>tiles/kezan/6/7/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7876,7 +7876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/19.png</href>
+        <href>tiles/kezan/6/8/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7901,7 +7901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/19.png</href>
+        <href>tiles/kezan/6/9/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7926,7 +7926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/19.png</href>
+        <href>tiles/kezan/6/10/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7951,7 +7951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/19.png</href>
+        <href>tiles/kezan/6/11/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -7976,7 +7976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/19.png</href>
+        <href>tiles/kezan/6/12/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -8001,7 +8001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/19.png</href>
+        <href>tiles/kezan/6/13/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -8026,7 +8026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/19.png</href>
+        <href>tiles/kezan/6/14/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -8051,7 +8051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/19.png</href>
+        <href>tiles/kezan/6/15/19.png</href>
       </Icon>
       <LatLonBox>
         <north>7.38956923</north>
@@ -8076,7 +8076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/20.png</href>
+        <href>tiles/kezan/6/0/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8101,7 +8101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/20.png</href>
+        <href>tiles/kezan/6/1/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8126,7 +8126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/20.png</href>
+        <href>tiles/kezan/6/2/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8151,7 +8151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/20.png</href>
+        <href>tiles/kezan/6/3/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8176,7 +8176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/20.png</href>
+        <href>tiles/kezan/6/4/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8201,7 +8201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/20.png</href>
+        <href>tiles/kezan/6/5/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8226,7 +8226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/20.png</href>
+        <href>tiles/kezan/6/6/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8251,7 +8251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/20.png</href>
+        <href>tiles/kezan/6/7/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8276,7 +8276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/20.png</href>
+        <href>tiles/kezan/6/8/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8301,7 +8301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/20.png</href>
+        <href>tiles/kezan/6/9/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8326,7 +8326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/20.png</href>
+        <href>tiles/kezan/6/10/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8351,7 +8351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/20.png</href>
+        <href>tiles/kezan/6/11/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8376,7 +8376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/20.png</href>
+        <href>tiles/kezan/6/12/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8401,7 +8401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/20.png</href>
+        <href>tiles/kezan/6/13/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8426,7 +8426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/20.png</href>
+        <href>tiles/kezan/6/14/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8451,7 +8451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/20.png</href>
+        <href>tiles/kezan/6/15/20.png</href>
       </Icon>
       <LatLonBox>
         <north>7.30303077</north>
@@ -8476,7 +8476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/21.png</href>
+        <href>tiles/kezan/6/0/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8501,7 +8501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/21.png</href>
+        <href>tiles/kezan/6/1/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8526,7 +8526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/21.png</href>
+        <href>tiles/kezan/6/2/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8551,7 +8551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/21.png</href>
+        <href>tiles/kezan/6/3/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8576,7 +8576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/21.png</href>
+        <href>tiles/kezan/6/4/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8601,7 +8601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/21.png</href>
+        <href>tiles/kezan/6/5/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8626,7 +8626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/21.png</href>
+        <href>tiles/kezan/6/6/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8651,7 +8651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/21.png</href>
+        <href>tiles/kezan/6/7/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8676,7 +8676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/21.png</href>
+        <href>tiles/kezan/6/8/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8701,7 +8701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/21.png</href>
+        <href>tiles/kezan/6/9/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8726,7 +8726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/21.png</href>
+        <href>tiles/kezan/6/10/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8751,7 +8751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/21.png</href>
+        <href>tiles/kezan/6/11/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8776,7 +8776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/21.png</href>
+        <href>tiles/kezan/6/12/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8801,7 +8801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/21.png</href>
+        <href>tiles/kezan/6/13/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8826,7 +8826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/21.png</href>
+        <href>tiles/kezan/6/14/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8851,7 +8851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/21.png</href>
+        <href>tiles/kezan/6/15/21.png</href>
       </Icon>
       <LatLonBox>
         <north>7.21649231</north>
@@ -8876,7 +8876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/22.png</href>
+        <href>tiles/kezan/6/0/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -8901,7 +8901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/22.png</href>
+        <href>tiles/kezan/6/1/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -8926,7 +8926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/22.png</href>
+        <href>tiles/kezan/6/2/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -8951,7 +8951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/22.png</href>
+        <href>tiles/kezan/6/3/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -8976,7 +8976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/22.png</href>
+        <href>tiles/kezan/6/4/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9001,7 +9001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/22.png</href>
+        <href>tiles/kezan/6/5/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9026,7 +9026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/22.png</href>
+        <href>tiles/kezan/6/6/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9051,7 +9051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/22.png</href>
+        <href>tiles/kezan/6/7/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9076,7 +9076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/22.png</href>
+        <href>tiles/kezan/6/8/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9101,7 +9101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/22.png</href>
+        <href>tiles/kezan/6/9/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9126,7 +9126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/22.png</href>
+        <href>tiles/kezan/6/10/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9151,7 +9151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/22.png</href>
+        <href>tiles/kezan/6/11/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9176,7 +9176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/22.png</href>
+        <href>tiles/kezan/6/12/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9201,7 +9201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/22.png</href>
+        <href>tiles/kezan/6/13/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9226,7 +9226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/22.png</href>
+        <href>tiles/kezan/6/14/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9251,7 +9251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/22.png</href>
+        <href>tiles/kezan/6/15/22.png</href>
       </Icon>
       <LatLonBox>
         <north>7.12995385</north>
@@ -9276,7 +9276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/23.png</href>
+        <href>tiles/kezan/6/0/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9301,7 +9301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/23.png</href>
+        <href>tiles/kezan/6/1/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9326,7 +9326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/23.png</href>
+        <href>tiles/kezan/6/2/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9351,7 +9351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/23.png</href>
+        <href>tiles/kezan/6/3/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9376,7 +9376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/23.png</href>
+        <href>tiles/kezan/6/4/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9401,7 +9401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/23.png</href>
+        <href>tiles/kezan/6/5/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9426,7 +9426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/23.png</href>
+        <href>tiles/kezan/6/6/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9451,7 +9451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/23.png</href>
+        <href>tiles/kezan/6/7/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9476,7 +9476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/23.png</href>
+        <href>tiles/kezan/6/8/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9501,7 +9501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/23.png</href>
+        <href>tiles/kezan/6/9/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9526,7 +9526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/23.png</href>
+        <href>tiles/kezan/6/10/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9551,7 +9551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/23.png</href>
+        <href>tiles/kezan/6/11/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9576,7 +9576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/23.png</href>
+        <href>tiles/kezan/6/12/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9601,7 +9601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/23.png</href>
+        <href>tiles/kezan/6/13/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9626,7 +9626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/23.png</href>
+        <href>tiles/kezan/6/14/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9651,7 +9651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/23.png</href>
+        <href>tiles/kezan/6/15/23.png</href>
       </Icon>
       <LatLonBox>
         <north>7.04341538</north>
@@ -9676,7 +9676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/24.png</href>
+        <href>tiles/kezan/6/0/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9701,7 +9701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/24.png</href>
+        <href>tiles/kezan/6/1/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9726,7 +9726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/24.png</href>
+        <href>tiles/kezan/6/2/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9751,7 +9751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/24.png</href>
+        <href>tiles/kezan/6/3/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9776,7 +9776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/24.png</href>
+        <href>tiles/kezan/6/4/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9801,7 +9801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/24.png</href>
+        <href>tiles/kezan/6/5/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9826,7 +9826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/24.png</href>
+        <href>tiles/kezan/6/6/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9851,7 +9851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/24.png</href>
+        <href>tiles/kezan/6/7/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9876,7 +9876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/24.png</href>
+        <href>tiles/kezan/6/8/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9901,7 +9901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/24.png</href>
+        <href>tiles/kezan/6/9/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9926,7 +9926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/24.png</href>
+        <href>tiles/kezan/6/10/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9951,7 +9951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/24.png</href>
+        <href>tiles/kezan/6/11/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -9976,7 +9976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/24.png</href>
+        <href>tiles/kezan/6/12/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -10001,7 +10001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/24.png</href>
+        <href>tiles/kezan/6/13/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -10026,7 +10026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/24.png</href>
+        <href>tiles/kezan/6/14/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -10051,7 +10051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/24.png</href>
+        <href>tiles/kezan/6/15/24.png</href>
       </Icon>
       <LatLonBox>
         <north>6.95687692</north>
@@ -10076,7 +10076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/25.png</href>
+        <href>tiles/kezan/6/0/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10101,7 +10101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/25.png</href>
+        <href>tiles/kezan/6/1/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10126,7 +10126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/25.png</href>
+        <href>tiles/kezan/6/2/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10151,7 +10151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/25.png</href>
+        <href>tiles/kezan/6/3/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10176,7 +10176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/25.png</href>
+        <href>tiles/kezan/6/4/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10201,7 +10201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/25.png</href>
+        <href>tiles/kezan/6/5/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10226,7 +10226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/25.png</href>
+        <href>tiles/kezan/6/6/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10251,7 +10251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/25.png</href>
+        <href>tiles/kezan/6/7/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10276,7 +10276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/25.png</href>
+        <href>tiles/kezan/6/8/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10301,7 +10301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/25.png</href>
+        <href>tiles/kezan/6/9/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10326,7 +10326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/25.png</href>
+        <href>tiles/kezan/6/10/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10351,7 +10351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/25.png</href>
+        <href>tiles/kezan/6/11/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10376,7 +10376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/25.png</href>
+        <href>tiles/kezan/6/12/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10401,7 +10401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/25.png</href>
+        <href>tiles/kezan/6/13/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10426,7 +10426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/25.png</href>
+        <href>tiles/kezan/6/14/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10451,7 +10451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/25.png</href>
+        <href>tiles/kezan/6/15/25.png</href>
       </Icon>
       <LatLonBox>
         <north>6.87033846</north>
@@ -10476,7 +10476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/26.png</href>
+        <href>tiles/kezan/6/0/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10501,7 +10501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/26.png</href>
+        <href>tiles/kezan/6/1/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10526,7 +10526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/26.png</href>
+        <href>tiles/kezan/6/2/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10551,7 +10551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/26.png</href>
+        <href>tiles/kezan/6/3/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10576,7 +10576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/26.png</href>
+        <href>tiles/kezan/6/4/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10601,7 +10601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/26.png</href>
+        <href>tiles/kezan/6/5/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10626,7 +10626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/26.png</href>
+        <href>tiles/kezan/6/6/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10651,7 +10651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/26.png</href>
+        <href>tiles/kezan/6/7/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10676,7 +10676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/26.png</href>
+        <href>tiles/kezan/6/8/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10701,7 +10701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/26.png</href>
+        <href>tiles/kezan/6/9/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10726,7 +10726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/26.png</href>
+        <href>tiles/kezan/6/10/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10751,7 +10751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/26.png</href>
+        <href>tiles/kezan/6/11/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10776,7 +10776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/26.png</href>
+        <href>tiles/kezan/6/12/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10801,7 +10801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/26.png</href>
+        <href>tiles/kezan/6/13/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10826,7 +10826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/26.png</href>
+        <href>tiles/kezan/6/14/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10851,7 +10851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/26.png</href>
+        <href>tiles/kezan/6/15/26.png</href>
       </Icon>
       <LatLonBox>
         <north>6.78380000</north>
@@ -10876,7 +10876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/27.png</href>
+        <href>tiles/kezan/6/0/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -10901,7 +10901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/27.png</href>
+        <href>tiles/kezan/6/1/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -10926,7 +10926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/27.png</href>
+        <href>tiles/kezan/6/2/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -10951,7 +10951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/27.png</href>
+        <href>tiles/kezan/6/3/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -10976,7 +10976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/27.png</href>
+        <href>tiles/kezan/6/4/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11001,7 +11001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/27.png</href>
+        <href>tiles/kezan/6/5/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11026,7 +11026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/27.png</href>
+        <href>tiles/kezan/6/6/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11051,7 +11051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/27.png</href>
+        <href>tiles/kezan/6/7/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11076,7 +11076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/27.png</href>
+        <href>tiles/kezan/6/8/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11101,7 +11101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/27.png</href>
+        <href>tiles/kezan/6/9/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11126,7 +11126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/27.png</href>
+        <href>tiles/kezan/6/10/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11151,7 +11151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/27.png</href>
+        <href>tiles/kezan/6/11/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11176,7 +11176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/27.png</href>
+        <href>tiles/kezan/6/12/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11201,7 +11201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/27.png</href>
+        <href>tiles/kezan/6/13/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11226,7 +11226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/27.png</href>
+        <href>tiles/kezan/6/14/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11251,7 +11251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/27.png</href>
+        <href>tiles/kezan/6/15/27.png</href>
       </Icon>
       <LatLonBox>
         <north>6.69726154</north>
@@ -11276,7 +11276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/28.png</href>
+        <href>tiles/kezan/6/0/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11301,7 +11301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/28.png</href>
+        <href>tiles/kezan/6/1/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11326,7 +11326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/28.png</href>
+        <href>tiles/kezan/6/2/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11351,7 +11351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/28.png</href>
+        <href>tiles/kezan/6/3/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11376,7 +11376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/28.png</href>
+        <href>tiles/kezan/6/4/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11401,7 +11401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/28.png</href>
+        <href>tiles/kezan/6/5/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11426,7 +11426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/28.png</href>
+        <href>tiles/kezan/6/6/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11451,7 +11451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/28.png</href>
+        <href>tiles/kezan/6/7/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11476,7 +11476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/28.png</href>
+        <href>tiles/kezan/6/8/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11501,7 +11501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/28.png</href>
+        <href>tiles/kezan/6/9/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11526,7 +11526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/28.png</href>
+        <href>tiles/kezan/6/10/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11551,7 +11551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/28.png</href>
+        <href>tiles/kezan/6/11/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11576,7 +11576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/28.png</href>
+        <href>tiles/kezan/6/12/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11601,7 +11601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/28.png</href>
+        <href>tiles/kezan/6/13/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11626,7 +11626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/28.png</href>
+        <href>tiles/kezan/6/14/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11651,7 +11651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/28.png</href>
+        <href>tiles/kezan/6/15/28.png</href>
       </Icon>
       <LatLonBox>
         <north>6.61072308</north>
@@ -11676,7 +11676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/29.png</href>
+        <href>tiles/kezan/6/0/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11701,7 +11701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/29.png</href>
+        <href>tiles/kezan/6/1/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11726,7 +11726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/29.png</href>
+        <href>tiles/kezan/6/2/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11751,7 +11751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/29.png</href>
+        <href>tiles/kezan/6/3/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11776,7 +11776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/29.png</href>
+        <href>tiles/kezan/6/4/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11801,7 +11801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/29.png</href>
+        <href>tiles/kezan/6/5/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11826,7 +11826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/29.png</href>
+        <href>tiles/kezan/6/6/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11851,7 +11851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/29.png</href>
+        <href>tiles/kezan/6/7/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11876,7 +11876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/29.png</href>
+        <href>tiles/kezan/6/8/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11901,7 +11901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/29.png</href>
+        <href>tiles/kezan/6/9/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11926,7 +11926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/29.png</href>
+        <href>tiles/kezan/6/10/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11951,7 +11951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/29.png</href>
+        <href>tiles/kezan/6/11/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -11976,7 +11976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/29.png</href>
+        <href>tiles/kezan/6/12/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -12001,7 +12001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/29.png</href>
+        <href>tiles/kezan/6/13/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -12026,7 +12026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/29.png</href>
+        <href>tiles/kezan/6/14/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -12051,7 +12051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/29.png</href>
+        <href>tiles/kezan/6/15/29.png</href>
       </Icon>
       <LatLonBox>
         <north>6.52418462</north>
@@ -12076,7 +12076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/30.png</href>
+        <href>tiles/kezan/6/0/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12101,7 +12101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/30.png</href>
+        <href>tiles/kezan/6/1/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12126,7 +12126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/30.png</href>
+        <href>tiles/kezan/6/2/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12151,7 +12151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/30.png</href>
+        <href>tiles/kezan/6/3/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12176,7 +12176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/30.png</href>
+        <href>tiles/kezan/6/4/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12201,7 +12201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/30.png</href>
+        <href>tiles/kezan/6/5/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12226,7 +12226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/30.png</href>
+        <href>tiles/kezan/6/6/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12251,7 +12251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/30.png</href>
+        <href>tiles/kezan/6/7/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12276,7 +12276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/30.png</href>
+        <href>tiles/kezan/6/8/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12301,7 +12301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/30.png</href>
+        <href>tiles/kezan/6/9/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12326,7 +12326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/30.png</href>
+        <href>tiles/kezan/6/10/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12351,7 +12351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/30.png</href>
+        <href>tiles/kezan/6/11/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12376,7 +12376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/30.png</href>
+        <href>tiles/kezan/6/12/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12401,7 +12401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/30.png</href>
+        <href>tiles/kezan/6/13/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12426,7 +12426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/30.png</href>
+        <href>tiles/kezan/6/14/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12451,7 +12451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/30.png</href>
+        <href>tiles/kezan/6/15/30.png</href>
       </Icon>
       <LatLonBox>
         <north>6.43764615</north>
@@ -12476,7 +12476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/31.png</href>
+        <href>tiles/kezan/6/0/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12501,7 +12501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/31.png</href>
+        <href>tiles/kezan/6/1/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12526,7 +12526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/31.png</href>
+        <href>tiles/kezan/6/2/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12551,7 +12551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/31.png</href>
+        <href>tiles/kezan/6/3/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12576,7 +12576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/31.png</href>
+        <href>tiles/kezan/6/4/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12601,7 +12601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/31.png</href>
+        <href>tiles/kezan/6/5/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12626,7 +12626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/31.png</href>
+        <href>tiles/kezan/6/6/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12651,7 +12651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/31.png</href>
+        <href>tiles/kezan/6/7/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12676,7 +12676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/31.png</href>
+        <href>tiles/kezan/6/8/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12701,7 +12701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/31.png</href>
+        <href>tiles/kezan/6/9/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12726,7 +12726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/31.png</href>
+        <href>tiles/kezan/6/10/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12751,7 +12751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/31.png</href>
+        <href>tiles/kezan/6/11/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12776,7 +12776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/31.png</href>
+        <href>tiles/kezan/6/12/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12801,7 +12801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/31.png</href>
+        <href>tiles/kezan/6/13/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12826,7 +12826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/31.png</href>
+        <href>tiles/kezan/6/14/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12851,7 +12851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/31.png</href>
+        <href>tiles/kezan/6/15/31.png</href>
       </Icon>
       <LatLonBox>
         <north>6.35110769</north>
@@ -12876,7 +12876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/32.png</href>
+        <href>tiles/kezan/6/0/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -12901,7 +12901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/32.png</href>
+        <href>tiles/kezan/6/1/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -12926,7 +12926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/32.png</href>
+        <href>tiles/kezan/6/2/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -12951,7 +12951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/32.png</href>
+        <href>tiles/kezan/6/3/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -12976,7 +12976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/32.png</href>
+        <href>tiles/kezan/6/4/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13001,7 +13001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/32.png</href>
+        <href>tiles/kezan/6/5/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13026,7 +13026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/32.png</href>
+        <href>tiles/kezan/6/6/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13051,7 +13051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/32.png</href>
+        <href>tiles/kezan/6/7/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13076,7 +13076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/32.png</href>
+        <href>tiles/kezan/6/8/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13101,7 +13101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/32.png</href>
+        <href>tiles/kezan/6/9/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13126,7 +13126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/32.png</href>
+        <href>tiles/kezan/6/10/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13151,7 +13151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/32.png</href>
+        <href>tiles/kezan/6/11/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13176,7 +13176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/32.png</href>
+        <href>tiles/kezan/6/12/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13201,7 +13201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/32.png</href>
+        <href>tiles/kezan/6/13/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13226,7 +13226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/32.png</href>
+        <href>tiles/kezan/6/14/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13251,7 +13251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/32.png</href>
+        <href>tiles/kezan/6/15/32.png</href>
       </Icon>
       <LatLonBox>
         <north>6.26456923</north>
@@ -13276,7 +13276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/33.png</href>
+        <href>tiles/kezan/6/0/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13301,7 +13301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/33.png</href>
+        <href>tiles/kezan/6/1/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13326,7 +13326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/33.png</href>
+        <href>tiles/kezan/6/2/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13351,7 +13351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/33.png</href>
+        <href>tiles/kezan/6/3/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13376,7 +13376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/33.png</href>
+        <href>tiles/kezan/6/4/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13401,7 +13401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/33.png</href>
+        <href>tiles/kezan/6/5/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13426,7 +13426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/33.png</href>
+        <href>tiles/kezan/6/6/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13451,7 +13451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/33.png</href>
+        <href>tiles/kezan/6/7/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13476,7 +13476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/33.png</href>
+        <href>tiles/kezan/6/8/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13501,7 +13501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/33.png</href>
+        <href>tiles/kezan/6/9/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13526,7 +13526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/33.png</href>
+        <href>tiles/kezan/6/10/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13551,7 +13551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/33.png</href>
+        <href>tiles/kezan/6/11/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13576,7 +13576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/33.png</href>
+        <href>tiles/kezan/6/12/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13601,7 +13601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/33.png</href>
+        <href>tiles/kezan/6/13/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13626,7 +13626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/33.png</href>
+        <href>tiles/kezan/6/14/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13651,7 +13651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/33.png</href>
+        <href>tiles/kezan/6/15/33.png</href>
       </Icon>
       <LatLonBox>
         <north>6.17803077</north>
@@ -13676,7 +13676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/34.png</href>
+        <href>tiles/kezan/6/0/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13701,7 +13701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/34.png</href>
+        <href>tiles/kezan/6/1/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13726,7 +13726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/34.png</href>
+        <href>tiles/kezan/6/2/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13751,7 +13751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/34.png</href>
+        <href>tiles/kezan/6/3/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13776,7 +13776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/34.png</href>
+        <href>tiles/kezan/6/4/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13801,7 +13801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/34.png</href>
+        <href>tiles/kezan/6/5/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13826,7 +13826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/34.png</href>
+        <href>tiles/kezan/6/6/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13851,7 +13851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/34.png</href>
+        <href>tiles/kezan/6/7/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13876,7 +13876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/34.png</href>
+        <href>tiles/kezan/6/8/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13901,7 +13901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/34.png</href>
+        <href>tiles/kezan/6/9/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13926,7 +13926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/34.png</href>
+        <href>tiles/kezan/6/10/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13951,7 +13951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/34.png</href>
+        <href>tiles/kezan/6/11/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -13976,7 +13976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/34.png</href>
+        <href>tiles/kezan/6/12/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -14001,7 +14001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/34.png</href>
+        <href>tiles/kezan/6/13/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -14026,7 +14026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/34.png</href>
+        <href>tiles/kezan/6/14/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -14051,7 +14051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/34.png</href>
+        <href>tiles/kezan/6/15/34.png</href>
       </Icon>
       <LatLonBox>
         <north>6.09149231</north>
@@ -14076,7 +14076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/35.png</href>
+        <href>tiles/kezan/6/0/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14101,7 +14101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/35.png</href>
+        <href>tiles/kezan/6/1/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14126,7 +14126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/35.png</href>
+        <href>tiles/kezan/6/2/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14151,7 +14151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/35.png</href>
+        <href>tiles/kezan/6/3/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14176,7 +14176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/35.png</href>
+        <href>tiles/kezan/6/4/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14201,7 +14201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/35.png</href>
+        <href>tiles/kezan/6/5/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14226,7 +14226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/35.png</href>
+        <href>tiles/kezan/6/6/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14251,7 +14251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/35.png</href>
+        <href>tiles/kezan/6/7/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14276,7 +14276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/35.png</href>
+        <href>tiles/kezan/6/8/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14301,7 +14301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/35.png</href>
+        <href>tiles/kezan/6/9/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14326,7 +14326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/35.png</href>
+        <href>tiles/kezan/6/10/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14351,7 +14351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/35.png</href>
+        <href>tiles/kezan/6/11/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14376,7 +14376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/35.png</href>
+        <href>tiles/kezan/6/12/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14401,7 +14401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/35.png</href>
+        <href>tiles/kezan/6/13/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14426,7 +14426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/35.png</href>
+        <href>tiles/kezan/6/14/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14451,7 +14451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/35.png</href>
+        <href>tiles/kezan/6/15/35.png</href>
       </Icon>
       <LatLonBox>
         <north>6.00495385</north>
@@ -14476,7 +14476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/36.png</href>
+        <href>tiles/kezan/6/0/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14501,7 +14501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/36.png</href>
+        <href>tiles/kezan/6/1/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14526,7 +14526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/36.png</href>
+        <href>tiles/kezan/6/2/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14551,7 +14551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/36.png</href>
+        <href>tiles/kezan/6/3/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14576,7 +14576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/36.png</href>
+        <href>tiles/kezan/6/4/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14601,7 +14601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/36.png</href>
+        <href>tiles/kezan/6/5/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14626,7 +14626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/36.png</href>
+        <href>tiles/kezan/6/6/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14651,7 +14651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/36.png</href>
+        <href>tiles/kezan/6/7/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14676,7 +14676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/36.png</href>
+        <href>tiles/kezan/6/8/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14701,7 +14701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/36.png</href>
+        <href>tiles/kezan/6/9/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14726,7 +14726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/36.png</href>
+        <href>tiles/kezan/6/10/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14751,7 +14751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/36.png</href>
+        <href>tiles/kezan/6/11/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14776,7 +14776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/36.png</href>
+        <href>tiles/kezan/6/12/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14801,7 +14801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/36.png</href>
+        <href>tiles/kezan/6/13/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14826,7 +14826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/36.png</href>
+        <href>tiles/kezan/6/14/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14851,7 +14851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/36.png</href>
+        <href>tiles/kezan/6/15/36.png</href>
       </Icon>
       <LatLonBox>
         <north>5.91841538</north>
@@ -14876,7 +14876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/37.png</href>
+        <href>tiles/kezan/6/0/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -14901,7 +14901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/37.png</href>
+        <href>tiles/kezan/6/1/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -14926,7 +14926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/37.png</href>
+        <href>tiles/kezan/6/2/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -14951,7 +14951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/37.png</href>
+        <href>tiles/kezan/6/3/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -14976,7 +14976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/37.png</href>
+        <href>tiles/kezan/6/4/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15001,7 +15001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/37.png</href>
+        <href>tiles/kezan/6/5/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15026,7 +15026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/37.png</href>
+        <href>tiles/kezan/6/6/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15051,7 +15051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/37.png</href>
+        <href>tiles/kezan/6/7/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15076,7 +15076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/37.png</href>
+        <href>tiles/kezan/6/8/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15101,7 +15101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/37.png</href>
+        <href>tiles/kezan/6/9/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15126,7 +15126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/37.png</href>
+        <href>tiles/kezan/6/10/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15151,7 +15151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/37.png</href>
+        <href>tiles/kezan/6/11/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15176,7 +15176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/37.png</href>
+        <href>tiles/kezan/6/12/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15201,7 +15201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/37.png</href>
+        <href>tiles/kezan/6/13/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15226,7 +15226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/37.png</href>
+        <href>tiles/kezan/6/14/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15251,7 +15251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/37.png</href>
+        <href>tiles/kezan/6/15/37.png</href>
       </Icon>
       <LatLonBox>
         <north>5.83187692</north>
@@ -15276,7 +15276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/38.png</href>
+        <href>tiles/kezan/6/0/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15301,7 +15301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/38.png</href>
+        <href>tiles/kezan/6/1/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15326,7 +15326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/38.png</href>
+        <href>tiles/kezan/6/2/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15351,7 +15351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/38.png</href>
+        <href>tiles/kezan/6/3/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15376,7 +15376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/38.png</href>
+        <href>tiles/kezan/6/4/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15401,7 +15401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/38.png</href>
+        <href>tiles/kezan/6/5/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15426,7 +15426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/38.png</href>
+        <href>tiles/kezan/6/6/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15451,7 +15451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/38.png</href>
+        <href>tiles/kezan/6/7/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15476,7 +15476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/38.png</href>
+        <href>tiles/kezan/6/8/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15501,7 +15501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/38.png</href>
+        <href>tiles/kezan/6/9/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15526,7 +15526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/38.png</href>
+        <href>tiles/kezan/6/10/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15551,7 +15551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/38.png</href>
+        <href>tiles/kezan/6/11/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15576,7 +15576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/38.png</href>
+        <href>tiles/kezan/6/12/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15601,7 +15601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/38.png</href>
+        <href>tiles/kezan/6/13/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15626,7 +15626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/38.png</href>
+        <href>tiles/kezan/6/14/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15651,7 +15651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/38.png</href>
+        <href>tiles/kezan/6/15/38.png</href>
       </Icon>
       <LatLonBox>
         <north>5.74533846</north>
@@ -15676,7 +15676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/39.png</href>
+        <href>tiles/kezan/6/0/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15701,7 +15701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/39.png</href>
+        <href>tiles/kezan/6/1/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15726,7 +15726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/39.png</href>
+        <href>tiles/kezan/6/2/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15751,7 +15751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/39.png</href>
+        <href>tiles/kezan/6/3/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15776,7 +15776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/39.png</href>
+        <href>tiles/kezan/6/4/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15801,7 +15801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/39.png</href>
+        <href>tiles/kezan/6/5/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15826,7 +15826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/39.png</href>
+        <href>tiles/kezan/6/6/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15851,7 +15851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/39.png</href>
+        <href>tiles/kezan/6/7/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15876,7 +15876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/39.png</href>
+        <href>tiles/kezan/6/8/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15901,7 +15901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/39.png</href>
+        <href>tiles/kezan/6/9/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15926,7 +15926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/39.png</href>
+        <href>tiles/kezan/6/10/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15951,7 +15951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/39.png</href>
+        <href>tiles/kezan/6/11/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -15976,7 +15976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/39.png</href>
+        <href>tiles/kezan/6/12/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -16001,7 +16001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/39.png</href>
+        <href>tiles/kezan/6/13/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -16026,7 +16026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/39.png</href>
+        <href>tiles/kezan/6/14/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -16051,7 +16051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/39.png</href>
+        <href>tiles/kezan/6/15/39.png</href>
       </Icon>
       <LatLonBox>
         <north>5.65880000</north>
@@ -16076,7 +16076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/40.png</href>
+        <href>tiles/kezan/6/0/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16101,7 +16101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/40.png</href>
+        <href>tiles/kezan/6/1/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16126,7 +16126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/40.png</href>
+        <href>tiles/kezan/6/2/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16151,7 +16151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/40.png</href>
+        <href>tiles/kezan/6/3/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16176,7 +16176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/40.png</href>
+        <href>tiles/kezan/6/4/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16201,7 +16201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/40.png</href>
+        <href>tiles/kezan/6/5/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16226,7 +16226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/40.png</href>
+        <href>tiles/kezan/6/6/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16251,7 +16251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/40.png</href>
+        <href>tiles/kezan/6/7/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16276,7 +16276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/40.png</href>
+        <href>tiles/kezan/6/8/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16301,7 +16301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/40.png</href>
+        <href>tiles/kezan/6/9/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16326,7 +16326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/40.png</href>
+        <href>tiles/kezan/6/10/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16351,7 +16351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/40.png</href>
+        <href>tiles/kezan/6/11/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16376,7 +16376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/40.png</href>
+        <href>tiles/kezan/6/12/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16401,7 +16401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/40.png</href>
+        <href>tiles/kezan/6/13/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16426,7 +16426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/40.png</href>
+        <href>tiles/kezan/6/14/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16451,7 +16451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/40.png</href>
+        <href>tiles/kezan/6/15/40.png</href>
       </Icon>
       <LatLonBox>
         <north>5.57226154</north>
@@ -16476,7 +16476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/41.png</href>
+        <href>tiles/kezan/6/0/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16501,7 +16501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/41.png</href>
+        <href>tiles/kezan/6/1/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16526,7 +16526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/41.png</href>
+        <href>tiles/kezan/6/2/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16551,7 +16551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/41.png</href>
+        <href>tiles/kezan/6/3/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16576,7 +16576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/41.png</href>
+        <href>tiles/kezan/6/4/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16601,7 +16601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/41.png</href>
+        <href>tiles/kezan/6/5/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16626,7 +16626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/41.png</href>
+        <href>tiles/kezan/6/6/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16651,7 +16651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/41.png</href>
+        <href>tiles/kezan/6/7/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16676,7 +16676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/41.png</href>
+        <href>tiles/kezan/6/8/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16701,7 +16701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/41.png</href>
+        <href>tiles/kezan/6/9/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16726,7 +16726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/41.png</href>
+        <href>tiles/kezan/6/10/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16751,7 +16751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/41.png</href>
+        <href>tiles/kezan/6/11/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16776,7 +16776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/41.png</href>
+        <href>tiles/kezan/6/12/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16801,7 +16801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/41.png</href>
+        <href>tiles/kezan/6/13/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16826,7 +16826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/41.png</href>
+        <href>tiles/kezan/6/14/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16851,7 +16851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/41.png</href>
+        <href>tiles/kezan/6/15/41.png</href>
       </Icon>
       <LatLonBox>
         <north>5.48572308</north>
@@ -16876,7 +16876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/42.png</href>
+        <href>tiles/kezan/6/0/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -16901,7 +16901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/42.png</href>
+        <href>tiles/kezan/6/1/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -16926,7 +16926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/42.png</href>
+        <href>tiles/kezan/6/2/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -16951,7 +16951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/42.png</href>
+        <href>tiles/kezan/6/3/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -16976,7 +16976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/42.png</href>
+        <href>tiles/kezan/6/4/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17001,7 +17001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/42.png</href>
+        <href>tiles/kezan/6/5/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17026,7 +17026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/42.png</href>
+        <href>tiles/kezan/6/6/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17051,7 +17051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/42.png</href>
+        <href>tiles/kezan/6/7/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17076,7 +17076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/42.png</href>
+        <href>tiles/kezan/6/8/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17101,7 +17101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/42.png</href>
+        <href>tiles/kezan/6/9/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17126,7 +17126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/42.png</href>
+        <href>tiles/kezan/6/10/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17151,7 +17151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/42.png</href>
+        <href>tiles/kezan/6/11/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17176,7 +17176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/42.png</href>
+        <href>tiles/kezan/6/12/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17201,7 +17201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/42.png</href>
+        <href>tiles/kezan/6/13/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17226,7 +17226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/42.png</href>
+        <href>tiles/kezan/6/14/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17251,7 +17251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/42.png</href>
+        <href>tiles/kezan/6/15/42.png</href>
       </Icon>
       <LatLonBox>
         <north>5.39918462</north>
@@ -17276,7 +17276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/43.png</href>
+        <href>tiles/kezan/6/0/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17301,7 +17301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/43.png</href>
+        <href>tiles/kezan/6/1/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17326,7 +17326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/43.png</href>
+        <href>tiles/kezan/6/2/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17351,7 +17351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/43.png</href>
+        <href>tiles/kezan/6/3/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17376,7 +17376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/43.png</href>
+        <href>tiles/kezan/6/4/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17401,7 +17401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/43.png</href>
+        <href>tiles/kezan/6/5/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17426,7 +17426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/43.png</href>
+        <href>tiles/kezan/6/6/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17451,7 +17451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/43.png</href>
+        <href>tiles/kezan/6/7/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17476,7 +17476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/43.png</href>
+        <href>tiles/kezan/6/8/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17501,7 +17501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/43.png</href>
+        <href>tiles/kezan/6/9/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17526,7 +17526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/43.png</href>
+        <href>tiles/kezan/6/10/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17551,7 +17551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/43.png</href>
+        <href>tiles/kezan/6/11/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17576,7 +17576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/43.png</href>
+        <href>tiles/kezan/6/12/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17601,7 +17601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/43.png</href>
+        <href>tiles/kezan/6/13/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17626,7 +17626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/43.png</href>
+        <href>tiles/kezan/6/14/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17651,7 +17651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/43.png</href>
+        <href>tiles/kezan/6/15/43.png</href>
       </Icon>
       <LatLonBox>
         <north>5.31264615</north>
@@ -17676,7 +17676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/44.png</href>
+        <href>tiles/kezan/6/0/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17701,7 +17701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/44.png</href>
+        <href>tiles/kezan/6/1/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17726,7 +17726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/44.png</href>
+        <href>tiles/kezan/6/2/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17751,7 +17751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/44.png</href>
+        <href>tiles/kezan/6/3/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17776,7 +17776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/44.png</href>
+        <href>tiles/kezan/6/4/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17801,7 +17801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/44.png</href>
+        <href>tiles/kezan/6/5/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17826,7 +17826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/44.png</href>
+        <href>tiles/kezan/6/6/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17851,7 +17851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/44.png</href>
+        <href>tiles/kezan/6/7/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17876,7 +17876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/44.png</href>
+        <href>tiles/kezan/6/8/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17901,7 +17901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/44.png</href>
+        <href>tiles/kezan/6/9/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17926,7 +17926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/44.png</href>
+        <href>tiles/kezan/6/10/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17951,7 +17951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/44.png</href>
+        <href>tiles/kezan/6/11/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -17976,7 +17976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/44.png</href>
+        <href>tiles/kezan/6/12/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -18001,7 +18001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/44.png</href>
+        <href>tiles/kezan/6/13/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -18026,7 +18026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/44.png</href>
+        <href>tiles/kezan/6/14/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -18051,7 +18051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/44.png</href>
+        <href>tiles/kezan/6/15/44.png</href>
       </Icon>
       <LatLonBox>
         <north>5.22610769</north>
@@ -18076,7 +18076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/45.png</href>
+        <href>tiles/kezan/6/0/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18101,7 +18101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/45.png</href>
+        <href>tiles/kezan/6/1/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18126,7 +18126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/45.png</href>
+        <href>tiles/kezan/6/2/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18151,7 +18151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/45.png</href>
+        <href>tiles/kezan/6/3/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18176,7 +18176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/45.png</href>
+        <href>tiles/kezan/6/4/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18201,7 +18201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/45.png</href>
+        <href>tiles/kezan/6/5/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18226,7 +18226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/45.png</href>
+        <href>tiles/kezan/6/6/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18251,7 +18251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/45.png</href>
+        <href>tiles/kezan/6/7/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18276,7 +18276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/45.png</href>
+        <href>tiles/kezan/6/8/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18301,7 +18301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/45.png</href>
+        <href>tiles/kezan/6/9/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18326,7 +18326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/45.png</href>
+        <href>tiles/kezan/6/10/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18351,7 +18351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/45.png</href>
+        <href>tiles/kezan/6/11/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18376,7 +18376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/45.png</href>
+        <href>tiles/kezan/6/12/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18401,7 +18401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/45.png</href>
+        <href>tiles/kezan/6/13/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18426,7 +18426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/45.png</href>
+        <href>tiles/kezan/6/14/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18451,7 +18451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/45.png</href>
+        <href>tiles/kezan/6/15/45.png</href>
       </Icon>
       <LatLonBox>
         <north>5.13956923</north>
@@ -18476,7 +18476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/46.png</href>
+        <href>tiles/kezan/6/0/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18501,7 +18501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/46.png</href>
+        <href>tiles/kezan/6/1/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18526,7 +18526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/46.png</href>
+        <href>tiles/kezan/6/2/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18551,7 +18551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/46.png</href>
+        <href>tiles/kezan/6/3/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18576,7 +18576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/46.png</href>
+        <href>tiles/kezan/6/4/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18601,7 +18601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/46.png</href>
+        <href>tiles/kezan/6/5/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18626,7 +18626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/46.png</href>
+        <href>tiles/kezan/6/6/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18651,7 +18651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/46.png</href>
+        <href>tiles/kezan/6/7/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18676,7 +18676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/46.png</href>
+        <href>tiles/kezan/6/8/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18701,7 +18701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/46.png</href>
+        <href>tiles/kezan/6/9/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18726,7 +18726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/46.png</href>
+        <href>tiles/kezan/6/10/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18751,7 +18751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/46.png</href>
+        <href>tiles/kezan/6/11/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18776,7 +18776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/46.png</href>
+        <href>tiles/kezan/6/12/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18801,7 +18801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/46.png</href>
+        <href>tiles/kezan/6/13/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18826,7 +18826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/46.png</href>
+        <href>tiles/kezan/6/14/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18851,7 +18851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/46.png</href>
+        <href>tiles/kezan/6/15/46.png</href>
       </Icon>
       <LatLonBox>
         <north>5.05303077</north>
@@ -18876,7 +18876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/47.png</href>
+        <href>tiles/kezan/6/0/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -18901,7 +18901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/47.png</href>
+        <href>tiles/kezan/6/1/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -18926,7 +18926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/47.png</href>
+        <href>tiles/kezan/6/2/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -18951,7 +18951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/47.png</href>
+        <href>tiles/kezan/6/3/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -18976,7 +18976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/47.png</href>
+        <href>tiles/kezan/6/4/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19001,7 +19001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/47.png</href>
+        <href>tiles/kezan/6/5/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19026,7 +19026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/47.png</href>
+        <href>tiles/kezan/6/6/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19051,7 +19051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/47.png</href>
+        <href>tiles/kezan/6/7/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19076,7 +19076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/47.png</href>
+        <href>tiles/kezan/6/8/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19101,7 +19101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/47.png</href>
+        <href>tiles/kezan/6/9/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19126,7 +19126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/47.png</href>
+        <href>tiles/kezan/6/10/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19151,7 +19151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/47.png</href>
+        <href>tiles/kezan/6/11/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19176,7 +19176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/47.png</href>
+        <href>tiles/kezan/6/12/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19201,7 +19201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/47.png</href>
+        <href>tiles/kezan/6/13/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19226,7 +19226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/47.png</href>
+        <href>tiles/kezan/6/14/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19251,7 +19251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/47.png</href>
+        <href>tiles/kezan/6/15/47.png</href>
       </Icon>
       <LatLonBox>
         <north>4.96649231</north>
@@ -19276,7 +19276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/48.png</href>
+        <href>tiles/kezan/6/0/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19301,7 +19301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/48.png</href>
+        <href>tiles/kezan/6/1/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19326,7 +19326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/48.png</href>
+        <href>tiles/kezan/6/2/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19351,7 +19351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/48.png</href>
+        <href>tiles/kezan/6/3/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19376,7 +19376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/48.png</href>
+        <href>tiles/kezan/6/4/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19401,7 +19401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/48.png</href>
+        <href>tiles/kezan/6/5/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19426,7 +19426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/48.png</href>
+        <href>tiles/kezan/6/6/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19451,7 +19451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/48.png</href>
+        <href>tiles/kezan/6/7/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19476,7 +19476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/48.png</href>
+        <href>tiles/kezan/6/8/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19501,7 +19501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/48.png</href>
+        <href>tiles/kezan/6/9/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19526,7 +19526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/48.png</href>
+        <href>tiles/kezan/6/10/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19551,7 +19551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/48.png</href>
+        <href>tiles/kezan/6/11/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19576,7 +19576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/48.png</href>
+        <href>tiles/kezan/6/12/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19601,7 +19601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/48.png</href>
+        <href>tiles/kezan/6/13/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19626,7 +19626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/48.png</href>
+        <href>tiles/kezan/6/14/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19651,7 +19651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/48.png</href>
+        <href>tiles/kezan/6/15/48.png</href>
       </Icon>
       <LatLonBox>
         <north>4.87995385</north>
@@ -19676,7 +19676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/49.png</href>
+        <href>tiles/kezan/6/0/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19701,7 +19701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/49.png</href>
+        <href>tiles/kezan/6/1/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19726,7 +19726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/49.png</href>
+        <href>tiles/kezan/6/2/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19751,7 +19751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/49.png</href>
+        <href>tiles/kezan/6/3/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19776,7 +19776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/49.png</href>
+        <href>tiles/kezan/6/4/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19801,7 +19801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/49.png</href>
+        <href>tiles/kezan/6/5/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19826,7 +19826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/49.png</href>
+        <href>tiles/kezan/6/6/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19851,7 +19851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/49.png</href>
+        <href>tiles/kezan/6/7/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19876,7 +19876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/49.png</href>
+        <href>tiles/kezan/6/8/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19901,7 +19901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/49.png</href>
+        <href>tiles/kezan/6/9/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19926,7 +19926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/49.png</href>
+        <href>tiles/kezan/6/10/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19951,7 +19951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/49.png</href>
+        <href>tiles/kezan/6/11/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -19976,7 +19976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/49.png</href>
+        <href>tiles/kezan/6/12/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -20001,7 +20001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/49.png</href>
+        <href>tiles/kezan/6/13/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -20026,7 +20026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/49.png</href>
+        <href>tiles/kezan/6/14/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -20051,7 +20051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/49.png</href>
+        <href>tiles/kezan/6/15/49.png</href>
       </Icon>
       <LatLonBox>
         <north>4.79341538</north>
@@ -20076,7 +20076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/50.png</href>
+        <href>tiles/kezan/6/0/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20101,7 +20101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/50.png</href>
+        <href>tiles/kezan/6/1/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20126,7 +20126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/50.png</href>
+        <href>tiles/kezan/6/2/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20151,7 +20151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/50.png</href>
+        <href>tiles/kezan/6/3/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20176,7 +20176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/50.png</href>
+        <href>tiles/kezan/6/4/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20201,7 +20201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/50.png</href>
+        <href>tiles/kezan/6/5/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20226,7 +20226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/50.png</href>
+        <href>tiles/kezan/6/6/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20251,7 +20251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/50.png</href>
+        <href>tiles/kezan/6/7/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20276,7 +20276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/50.png</href>
+        <href>tiles/kezan/6/8/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20301,7 +20301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/50.png</href>
+        <href>tiles/kezan/6/9/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20326,7 +20326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/50.png</href>
+        <href>tiles/kezan/6/10/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20351,7 +20351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/50.png</href>
+        <href>tiles/kezan/6/11/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20376,7 +20376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/50.png</href>
+        <href>tiles/kezan/6/12/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20401,7 +20401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/50.png</href>
+        <href>tiles/kezan/6/13/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20426,7 +20426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/50.png</href>
+        <href>tiles/kezan/6/14/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20451,7 +20451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/50.png</href>
+        <href>tiles/kezan/6/15/50.png</href>
       </Icon>
       <LatLonBox>
         <north>4.70687692</north>
@@ -20476,7 +20476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/0/51.png</href>
+        <href>tiles/kezan/6/0/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20501,7 +20501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/1/51.png</href>
+        <href>tiles/kezan/6/1/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20526,7 +20526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/2/51.png</href>
+        <href>tiles/kezan/6/2/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20551,7 +20551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/3/51.png</href>
+        <href>tiles/kezan/6/3/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20576,7 +20576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/4/51.png</href>
+        <href>tiles/kezan/6/4/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20601,7 +20601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/5/51.png</href>
+        <href>tiles/kezan/6/5/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20626,7 +20626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/6/51.png</href>
+        <href>tiles/kezan/6/6/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20651,7 +20651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/7/51.png</href>
+        <href>tiles/kezan/6/7/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20676,7 +20676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/8/51.png</href>
+        <href>tiles/kezan/6/8/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20701,7 +20701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/9/51.png</href>
+        <href>tiles/kezan/6/9/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20726,7 +20726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/10/51.png</href>
+        <href>tiles/kezan/6/10/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20751,7 +20751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/11/51.png</href>
+        <href>tiles/kezan/6/11/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20776,7 +20776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/12/51.png</href>
+        <href>tiles/kezan/6/12/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20801,7 +20801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/13/51.png</href>
+        <href>tiles/kezan/6/13/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20826,7 +20826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/14/51.png</href>
+        <href>tiles/kezan/6/14/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>
@@ -20851,7 +20851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/kezan/6/15/51.png</href>
+        <href>tiles/kezan/6/15/51.png</href>
       </Icon>
       <LatLonBox>
         <north>4.62033846</north>

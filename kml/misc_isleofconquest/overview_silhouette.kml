@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/misc_isleofconquest/overview_silhouette.png</href>
+        <href>tiles/misc_isleofconquest/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>51.45937900</north>

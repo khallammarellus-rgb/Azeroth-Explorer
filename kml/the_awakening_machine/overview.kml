@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/the_awakening_machine/0/0/0.png</href>
+        <href>tiles/the_awakening_machine/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-7.62760000</north>

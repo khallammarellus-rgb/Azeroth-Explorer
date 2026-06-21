@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/zandalar/overview_theater.png</href>
+        <href>tiles/zandalar/overview_theater.png</href>
       </Icon>
       <LatLonBox>
         <north>15.58870000</north>

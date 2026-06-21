@@ -17,7 +17,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/overview_detail.png</href>
+        <href>tiles/maelstrom/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>28.61671500</north>

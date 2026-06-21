@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/0/0/0.png</href>
+        <href>tiles/maelstrom/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -51,7 +51,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/1/0/0.png</href>
+        <href>tiles/maelstrom/1/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -76,7 +76,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/1/1/0.png</href>
+        <href>tiles/maelstrom/1/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -101,7 +101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/1/0/1.png</href>
+        <href>tiles/maelstrom/1/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -126,7 +126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/1/1/1.png</href>
+        <href>tiles/maelstrom/1/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -151,7 +151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/0/0.png</href>
+        <href>tiles/maelstrom/2/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -176,7 +176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/1/0.png</href>
+        <href>tiles/maelstrom/2/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -201,7 +201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/2/0.png</href>
+        <href>tiles/maelstrom/2/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -226,7 +226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/0/1.png</href>
+        <href>tiles/maelstrom/2/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -251,7 +251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/1/1.png</href>
+        <href>tiles/maelstrom/2/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -276,7 +276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/2/1.png</href>
+        <href>tiles/maelstrom/2/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -301,7 +301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/0/2.png</href>
+        <href>tiles/maelstrom/2/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -326,7 +326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/1/2.png</href>
+        <href>tiles/maelstrom/2/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -351,7 +351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/2/2/2.png</href>
+        <href>tiles/maelstrom/2/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -376,7 +376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/0/0.png</href>
+        <href>tiles/maelstrom/3/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -401,7 +401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/1/0.png</href>
+        <href>tiles/maelstrom/3/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -426,7 +426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/2/0.png</href>
+        <href>tiles/maelstrom/3/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -451,7 +451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/3/0.png</href>
+        <href>tiles/maelstrom/3/3/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -476,7 +476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/4/0.png</href>
+        <href>tiles/maelstrom/3/4/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -501,7 +501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/5/0.png</href>
+        <href>tiles/maelstrom/3/5/0.png</href>
       </Icon>
       <LatLonBox>
         <north>26.19310000</north>
@@ -526,7 +526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/0/1.png</href>
+        <href>tiles/maelstrom/3/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>24.20860000</north>
@@ -551,7 +551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/1/1.png</href>
+        <href>tiles/maelstrom/3/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>24.20860000</north>
@@ -576,7 +576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/2/1.png</href>
+        <href>tiles/maelstrom/3/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>24.20860000</north>
@@ -601,7 +601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/3/1.png</href>
+        <href>tiles/maelstrom/3/3/1.png</href>
       </Icon>
       <LatLonBox>
         <north>24.20860000</north>
@@ -626,7 +626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/4/1.png</href>
+        <href>tiles/maelstrom/3/4/1.png</href>
       </Icon>
       <LatLonBox>
         <north>24.20860000</north>
@@ -651,7 +651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/5/1.png</href>
+        <href>tiles/maelstrom/3/5/1.png</href>
       </Icon>
       <LatLonBox>
         <north>24.20860000</north>
@@ -676,7 +676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/0/2.png</href>
+        <href>tiles/maelstrom/3/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -701,7 +701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/1/2.png</href>
+        <href>tiles/maelstrom/3/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -726,7 +726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/2/2.png</href>
+        <href>tiles/maelstrom/3/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -751,7 +751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/3/2.png</href>
+        <href>tiles/maelstrom/3/3/2.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -776,7 +776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/4/2.png</href>
+        <href>tiles/maelstrom/3/4/2.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -801,7 +801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/5/2.png</href>
+        <href>tiles/maelstrom/3/5/2.png</href>
       </Icon>
       <LatLonBox>
         <north>22.22410000</north>
@@ -826,7 +826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/0/3.png</href>
+        <href>tiles/maelstrom/3/0/3.png</href>
       </Icon>
       <LatLonBox>
         <north>20.23960000</north>
@@ -851,7 +851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/1/3.png</href>
+        <href>tiles/maelstrom/3/1/3.png</href>
       </Icon>
       <LatLonBox>
         <north>20.23960000</north>
@@ -876,7 +876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/2/3.png</href>
+        <href>tiles/maelstrom/3/2/3.png</href>
       </Icon>
       <LatLonBox>
         <north>20.23960000</north>
@@ -901,7 +901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/3/3.png</href>
+        <href>tiles/maelstrom/3/3/3.png</href>
       </Icon>
       <LatLonBox>
         <north>20.23960000</north>
@@ -926,7 +926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/4/3.png</href>
+        <href>tiles/maelstrom/3/4/3.png</href>
       </Icon>
       <LatLonBox>
         <north>20.23960000</north>
@@ -951,7 +951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/5/3.png</href>
+        <href>tiles/maelstrom/3/5/3.png</href>
       </Icon>
       <LatLonBox>
         <north>20.23960000</north>
@@ -976,7 +976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/0/4.png</href>
+        <href>tiles/maelstrom/3/0/4.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -1001,7 +1001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/1/4.png</href>
+        <href>tiles/maelstrom/3/1/4.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -1026,7 +1026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/2/4.png</href>
+        <href>tiles/maelstrom/3/2/4.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -1051,7 +1051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/3/4.png</href>
+        <href>tiles/maelstrom/3/3/4.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -1076,7 +1076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/4/4.png</href>
+        <href>tiles/maelstrom/3/4/4.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -1101,7 +1101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/5/4.png</href>
+        <href>tiles/maelstrom/3/5/4.png</href>
       </Icon>
       <LatLonBox>
         <north>18.25510000</north>
@@ -1126,7 +1126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/0/5.png</href>
+        <href>tiles/maelstrom/3/0/5.png</href>
       </Icon>
       <LatLonBox>
         <north>16.27060000</north>
@@ -1151,7 +1151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/1/5.png</href>
+        <href>tiles/maelstrom/3/1/5.png</href>
       </Icon>
       <LatLonBox>
         <north>16.27060000</north>
@@ -1176,7 +1176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/2/5.png</href>
+        <href>tiles/maelstrom/3/2/5.png</href>
       </Icon>
       <LatLonBox>
         <north>16.27060000</north>
@@ -1201,7 +1201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/3/5.png</href>
+        <href>tiles/maelstrom/3/3/5.png</href>
       </Icon>
       <LatLonBox>
         <north>16.27060000</north>
@@ -1226,7 +1226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/4/5.png</href>
+        <href>tiles/maelstrom/3/4/5.png</href>
       </Icon>
       <LatLonBox>
         <north>16.27060000</north>
@@ -1251,7 +1251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/maelstrom/3/5/5.png</href>
+        <href>tiles/maelstrom/3/5/5.png</href>
       </Icon>
       <LatLonBox>
         <north>16.27060000</north>

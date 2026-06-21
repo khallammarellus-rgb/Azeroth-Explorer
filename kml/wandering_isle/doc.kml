@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/0/0/0.png</href>
+        <href>tiles/wandering_isle/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -51,7 +51,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/1/0/0.png</href>
+        <href>tiles/wandering_isle/1/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -76,7 +76,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/1/1/0.png</href>
+        <href>tiles/wandering_isle/1/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -101,7 +101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/2/0/0.png</href>
+        <href>tiles/wandering_isle/2/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -126,7 +126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/2/1/0.png</href>
+        <href>tiles/wandering_isle/2/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -151,7 +151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/2/2/0.png</href>
+        <href>tiles/wandering_isle/2/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -176,7 +176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/2/0/1.png</href>
+        <href>tiles/wandering_isle/2/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -201,7 +201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/2/1/1.png</href>
+        <href>tiles/wandering_isle/2/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -226,7 +226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/2/2/1.png</href>
+        <href>tiles/wandering_isle/2/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -251,7 +251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/0/0.png</href>
+        <href>tiles/wandering_isle/3/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -276,7 +276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/1/0.png</href>
+        <href>tiles/wandering_isle/3/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -301,7 +301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/2/0.png</href>
+        <href>tiles/wandering_isle/3/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -326,7 +326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/3/0.png</href>
+        <href>tiles/wandering_isle/3/3/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -351,7 +351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/4/0.png</href>
+        <href>tiles/wandering_isle/3/4/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -376,7 +376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/5/0.png</href>
+        <href>tiles/wandering_isle/3/5/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -401,7 +401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/0/1.png</href>
+        <href>tiles/wandering_isle/3/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -426,7 +426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/1/1.png</href>
+        <href>tiles/wandering_isle/3/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -451,7 +451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/2/1.png</href>
+        <href>tiles/wandering_isle/3/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -476,7 +476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/3/1.png</href>
+        <href>tiles/wandering_isle/3/3/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -501,7 +501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/4/1.png</href>
+        <href>tiles/wandering_isle/3/4/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -526,7 +526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/5/1.png</href>
+        <href>tiles/wandering_isle/3/5/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -551,7 +551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/0/2.png</href>
+        <href>tiles/wandering_isle/3/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -576,7 +576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/1/2.png</href>
+        <href>tiles/wandering_isle/3/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -601,7 +601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/2/2.png</href>
+        <href>tiles/wandering_isle/3/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -626,7 +626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/3/2.png</href>
+        <href>tiles/wandering_isle/3/3/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -651,7 +651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/4/2.png</href>
+        <href>tiles/wandering_isle/3/4/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -676,7 +676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/5/2.png</href>
+        <href>tiles/wandering_isle/3/5/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -701,7 +701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/0/3.png</href>
+        <href>tiles/wandering_isle/3/0/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -726,7 +726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/1/3.png</href>
+        <href>tiles/wandering_isle/3/1/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -751,7 +751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/2/3.png</href>
+        <href>tiles/wandering_isle/3/2/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -776,7 +776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/3/3.png</href>
+        <href>tiles/wandering_isle/3/3/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -801,7 +801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/4/3.png</href>
+        <href>tiles/wandering_isle/3/4/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -826,7 +826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/3/5/3.png</href>
+        <href>tiles/wandering_isle/3/5/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -851,7 +851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/0.png</href>
+        <href>tiles/wandering_isle/4/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -876,7 +876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/0.png</href>
+        <href>tiles/wandering_isle/4/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -901,7 +901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/0.png</href>
+        <href>tiles/wandering_isle/4/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -926,7 +926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/0.png</href>
+        <href>tiles/wandering_isle/4/3/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -951,7 +951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/0.png</href>
+        <href>tiles/wandering_isle/4/4/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -976,7 +976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/0.png</href>
+        <href>tiles/wandering_isle/4/5/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -1001,7 +1001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/0.png</href>
+        <href>tiles/wandering_isle/4/6/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -1026,7 +1026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/0.png</href>
+        <href>tiles/wandering_isle/4/7/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -1051,7 +1051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/0.png</href>
+        <href>tiles/wandering_isle/4/8/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -1076,7 +1076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/0.png</href>
+        <href>tiles/wandering_isle/4/9/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -1101,7 +1101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/0.png</href>
+        <href>tiles/wandering_isle/4/10/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -1126,7 +1126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/0.png</href>
+        <href>tiles/wandering_isle/4/11/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.01130000</north>
@@ -1151,7 +1151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/1.png</href>
+        <href>tiles/wandering_isle/4/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1176,7 +1176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/1.png</href>
+        <href>tiles/wandering_isle/4/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1201,7 +1201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/1.png</href>
+        <href>tiles/wandering_isle/4/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1226,7 +1226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/1.png</href>
+        <href>tiles/wandering_isle/4/3/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1251,7 +1251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/1.png</href>
+        <href>tiles/wandering_isle/4/4/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1276,7 +1276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/1.png</href>
+        <href>tiles/wandering_isle/4/5/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1301,7 +1301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/1.png</href>
+        <href>tiles/wandering_isle/4/6/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1326,7 +1326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/1.png</href>
+        <href>tiles/wandering_isle/4/7/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1351,7 +1351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/1.png</href>
+        <href>tiles/wandering_isle/4/8/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1376,7 +1376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/1.png</href>
+        <href>tiles/wandering_isle/4/9/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1401,7 +1401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/1.png</href>
+        <href>tiles/wandering_isle/4/10/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1426,7 +1426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/1.png</href>
+        <href>tiles/wandering_isle/4/11/1.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.24755000</north>
@@ -1451,7 +1451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/2.png</href>
+        <href>tiles/wandering_isle/4/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1476,7 +1476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/2.png</href>
+        <href>tiles/wandering_isle/4/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1501,7 +1501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/2.png</href>
+        <href>tiles/wandering_isle/4/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1526,7 +1526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/2.png</href>
+        <href>tiles/wandering_isle/4/3/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1551,7 +1551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/2.png</href>
+        <href>tiles/wandering_isle/4/4/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1576,7 +1576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/2.png</href>
+        <href>tiles/wandering_isle/4/5/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1601,7 +1601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/2.png</href>
+        <href>tiles/wandering_isle/4/6/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1626,7 +1626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/2.png</href>
+        <href>tiles/wandering_isle/4/7/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1651,7 +1651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/2.png</href>
+        <href>tiles/wandering_isle/4/8/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1676,7 +1676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/2.png</href>
+        <href>tiles/wandering_isle/4/9/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1701,7 +1701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/2.png</href>
+        <href>tiles/wandering_isle/4/10/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1726,7 +1726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/2.png</href>
+        <href>tiles/wandering_isle/4/11/2.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.48380000</north>
@@ -1751,7 +1751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/3.png</href>
+        <href>tiles/wandering_isle/4/0/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1776,7 +1776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/3.png</href>
+        <href>tiles/wandering_isle/4/1/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1801,7 +1801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/3.png</href>
+        <href>tiles/wandering_isle/4/2/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1826,7 +1826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/3.png</href>
+        <href>tiles/wandering_isle/4/3/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1851,7 +1851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/3.png</href>
+        <href>tiles/wandering_isle/4/4/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1876,7 +1876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/3.png</href>
+        <href>tiles/wandering_isle/4/5/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1901,7 +1901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/3.png</href>
+        <href>tiles/wandering_isle/4/6/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1926,7 +1926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/3.png</href>
+        <href>tiles/wandering_isle/4/7/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1951,7 +1951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/3.png</href>
+        <href>tiles/wandering_isle/4/8/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -1976,7 +1976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/3.png</href>
+        <href>tiles/wandering_isle/4/9/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -2001,7 +2001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/3.png</href>
+        <href>tiles/wandering_isle/4/10/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -2026,7 +2026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/3.png</href>
+        <href>tiles/wandering_isle/4/11/3.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.72005000</north>
@@ -2051,7 +2051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/4.png</href>
+        <href>tiles/wandering_isle/4/0/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2076,7 +2076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/4.png</href>
+        <href>tiles/wandering_isle/4/1/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2101,7 +2101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/4.png</href>
+        <href>tiles/wandering_isle/4/2/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2126,7 +2126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/4.png</href>
+        <href>tiles/wandering_isle/4/3/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2151,7 +2151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/4.png</href>
+        <href>tiles/wandering_isle/4/4/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2176,7 +2176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/4.png</href>
+        <href>tiles/wandering_isle/4/5/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2201,7 +2201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/4.png</href>
+        <href>tiles/wandering_isle/4/6/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2226,7 +2226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/4.png</href>
+        <href>tiles/wandering_isle/4/7/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2251,7 +2251,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/4.png</href>
+        <href>tiles/wandering_isle/4/8/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2276,7 +2276,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/4.png</href>
+        <href>tiles/wandering_isle/4/9/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2301,7 +2301,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/4.png</href>
+        <href>tiles/wandering_isle/4/10/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2326,7 +2326,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/4.png</href>
+        <href>tiles/wandering_isle/4/11/4.png</href>
       </Icon>
       <LatLonBox>
         <north>-5.95630000</north>
@@ -2351,7 +2351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/5.png</href>
+        <href>tiles/wandering_isle/4/0/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2376,7 +2376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/5.png</href>
+        <href>tiles/wandering_isle/4/1/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2401,7 +2401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/5.png</href>
+        <href>tiles/wandering_isle/4/2/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2426,7 +2426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/5.png</href>
+        <href>tiles/wandering_isle/4/3/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2451,7 +2451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/5.png</href>
+        <href>tiles/wandering_isle/4/4/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2476,7 +2476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/5.png</href>
+        <href>tiles/wandering_isle/4/5/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2501,7 +2501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/5.png</href>
+        <href>tiles/wandering_isle/4/6/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2526,7 +2526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/5.png</href>
+        <href>tiles/wandering_isle/4/7/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2551,7 +2551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/5.png</href>
+        <href>tiles/wandering_isle/4/8/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2576,7 +2576,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/5.png</href>
+        <href>tiles/wandering_isle/4/9/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2601,7 +2601,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/5.png</href>
+        <href>tiles/wandering_isle/4/10/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2626,7 +2626,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/5.png</href>
+        <href>tiles/wandering_isle/4/11/5.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.19255000</north>
@@ -2651,7 +2651,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/6.png</href>
+        <href>tiles/wandering_isle/4/0/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2676,7 +2676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/6.png</href>
+        <href>tiles/wandering_isle/4/1/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2701,7 +2701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/6.png</href>
+        <href>tiles/wandering_isle/4/2/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2726,7 +2726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/6.png</href>
+        <href>tiles/wandering_isle/4/3/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2751,7 +2751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/6.png</href>
+        <href>tiles/wandering_isle/4/4/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2776,7 +2776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/6.png</href>
+        <href>tiles/wandering_isle/4/5/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2801,7 +2801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/6.png</href>
+        <href>tiles/wandering_isle/4/6/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2826,7 +2826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/6.png</href>
+        <href>tiles/wandering_isle/4/7/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2851,7 +2851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/6.png</href>
+        <href>tiles/wandering_isle/4/8/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2876,7 +2876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/6.png</href>
+        <href>tiles/wandering_isle/4/9/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2901,7 +2901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/6.png</href>
+        <href>tiles/wandering_isle/4/10/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2926,7 +2926,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/6.png</href>
+        <href>tiles/wandering_isle/4/11/6.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.42880000</north>
@@ -2951,7 +2951,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/0/7.png</href>
+        <href>tiles/wandering_isle/4/0/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -2976,7 +2976,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/1/7.png</href>
+        <href>tiles/wandering_isle/4/1/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3001,7 +3001,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/2/7.png</href>
+        <href>tiles/wandering_isle/4/2/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3026,7 +3026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/3/7.png</href>
+        <href>tiles/wandering_isle/4/3/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3051,7 +3051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/4/7.png</href>
+        <href>tiles/wandering_isle/4/4/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3076,7 +3076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/5/7.png</href>
+        <href>tiles/wandering_isle/4/5/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3101,7 +3101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/6/7.png</href>
+        <href>tiles/wandering_isle/4/6/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3126,7 +3126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/7/7.png</href>
+        <href>tiles/wandering_isle/4/7/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3151,7 +3151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/8/7.png</href>
+        <href>tiles/wandering_isle/4/8/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3176,7 +3176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/9/7.png</href>
+        <href>tiles/wandering_isle/4/9/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3201,7 +3201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/10/7.png</href>
+        <href>tiles/wandering_isle/4/10/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>
@@ -3226,7 +3226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/wandering_isle/4/11/7.png</href>
+        <href>tiles/wandering_isle/4/11/7.png</href>
       </Icon>
       <LatLonBox>
         <north>-6.66505000</north>

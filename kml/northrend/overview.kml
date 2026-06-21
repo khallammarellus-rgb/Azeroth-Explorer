@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/northrend/overview_silhouette.png</href>
+        <href>tiles/northrend/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>72.77890000</north>
@@ -52,7 +52,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/northrend/overview_planet.png</href>
+        <href>tiles/northrend/overview_planet.png</href>
       </Icon>
       <LatLonBox>
         <north>72.77890000</north>
@@ -78,7 +78,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/northrend/overview_theater.png</href>
+        <href>tiles/northrend/overview_theater.png</href>
       </Icon>
       <LatLonBox>
         <north>72.77890000</north>
@@ -103,7 +103,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/northrend/overview_detail.png</href>
+        <href>tiles/northrend/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>72.77890000</north>

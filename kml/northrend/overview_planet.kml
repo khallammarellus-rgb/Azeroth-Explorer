@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/northrend/overview_planet.png</href>
+        <href>tiles/northrend/overview_planet.png</href>
       </Icon>
       <LatLonBox>
         <north>72.77890000</north>

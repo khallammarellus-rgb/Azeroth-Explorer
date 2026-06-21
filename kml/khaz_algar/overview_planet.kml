@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/khaz_algar/overview_planet.png</href>
+        <href>tiles/khaz_algar/overview_planet.png</href>
       </Icon>
       <LatLonBox>
         <north>-2.31624800</north>

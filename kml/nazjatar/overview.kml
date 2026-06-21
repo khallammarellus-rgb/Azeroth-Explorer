@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/nazjatar/overview_silhouette.png</href>
+        <href>tiles/nazjatar/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>22.05215400</north>
@@ -50,7 +50,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/nazjatar/overview_detail.png</href>
+        <href>tiles/nazjatar/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>22.05215400</north>

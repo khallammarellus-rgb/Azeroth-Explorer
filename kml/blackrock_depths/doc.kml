@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/blackrock_depths/0/0/0.png</href>
+        <href>tiles/blackrock_depths/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>15.34290000</north>

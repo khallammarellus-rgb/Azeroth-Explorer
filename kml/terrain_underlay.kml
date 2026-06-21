@@ -7,7 +7,7 @@
       <drawOrder>0</drawOrder>
       <color>ffffffff</color>
       <Icon>
-        <href>../tiles/_shared/terrain_underlay.png</href>
+        <href>tiles/_shared/terrain_underlay.png</href>
       </Icon>
       <LatLonBox>
         <north>90.00000000</north>

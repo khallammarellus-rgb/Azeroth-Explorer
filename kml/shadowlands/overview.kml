@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/shadowlands/0/0/0.png</href>
+        <href>tiles/shadowlands/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>86.04190000</north>

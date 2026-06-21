@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/voidstorm/0/0/0.png</href>
+        <href>tiles/voidstorm/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>0.57010000</north>

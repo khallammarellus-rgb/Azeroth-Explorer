@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/misc_islands_panderan_farm/overview_silhouette.png</href>
+        <href>tiles/misc_islands_panderan_farm/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>-9.93753400</north>
@@ -50,7 +50,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/misc_islands_panderan_farm/overview_detail.png</href>
+        <href>tiles/misc_islands_panderan_farm/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>-9.93753400</north>

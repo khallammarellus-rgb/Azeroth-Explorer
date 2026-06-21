@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>../../tiles/founders_point/overview_silhouette.png</href>
+        <href>tiles/founders_point/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>6.57002400</north>
