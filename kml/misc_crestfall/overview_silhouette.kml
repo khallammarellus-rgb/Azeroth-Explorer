@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_crestfall/overview_silhouette.png</href>
+        <href>../../tiles/misc_crestfall/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>22.42682000</north>

@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_islands10/overview_silhouette.png</href>
+        <href>../../tiles/misc_islands10/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>28.32267600</north>
@@ -50,7 +50,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_islands10/overview_detail.png</href>
+        <href>../../tiles/misc_islands10/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>28.32267600</north>

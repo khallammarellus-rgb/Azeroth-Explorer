@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/emerald_dream/0/0/0.png</href>
+        <href>../../tiles/emerald_dream/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>15.56260000</north>

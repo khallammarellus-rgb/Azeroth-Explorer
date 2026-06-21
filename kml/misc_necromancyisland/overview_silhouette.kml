@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_necromancyisland/overview_silhouette.png</href>
+        <href>../../tiles/misc_necromancyisland/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>19.40962300</north>

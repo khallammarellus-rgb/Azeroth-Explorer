@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/broken_isles/overview_silhouette.png</href>
+        <href>../../tiles/broken_isles/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>44.93752900</north>

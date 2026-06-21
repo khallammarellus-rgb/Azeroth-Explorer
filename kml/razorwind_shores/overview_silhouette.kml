@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/razorwind_shores/overview_silhouette.png</href>
+        <href>../../tiles/razorwind_shores/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>16.33212900</north>

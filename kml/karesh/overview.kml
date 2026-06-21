@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/karesh/0/0/0.png</href>
+        <href>../../tiles/karesh/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>12.32450000</north>

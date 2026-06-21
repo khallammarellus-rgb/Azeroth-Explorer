@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/mechagon/0/0/0.png</href>
+        <href>../../tiles/mechagon/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>17.93950000</north>

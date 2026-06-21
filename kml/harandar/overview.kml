@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/harandar/0/0/0.png</href>
+        <href>../../tiles/harandar/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>16.77790000</north>

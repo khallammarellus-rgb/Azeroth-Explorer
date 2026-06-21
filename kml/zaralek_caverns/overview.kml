@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/0/0/0.png</href>
+        <href>../../tiles/zaralek_caverns/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>43.08890000</north>

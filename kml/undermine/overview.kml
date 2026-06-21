@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/undermine/0/0/0.png</href>
+        <href>../../tiles/undermine/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>-8.75760000</north>

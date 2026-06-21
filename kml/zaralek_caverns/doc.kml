@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/0/0/0.png</href>
+        <href>../../tiles/zaralek_caverns/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -55,7 +55,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/1/0/0.png</href>
+        <href>../../tiles/zaralek_caverns/1/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -82,7 +82,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/1/1/0.png</href>
+        <href>../../tiles/zaralek_caverns/1/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -109,7 +109,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/1/0/1.png</href>
+        <href>../../tiles/zaralek_caverns/1/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -136,7 +136,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/1/1/1.png</href>
+        <href>../../tiles/zaralek_caverns/1/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -163,7 +163,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/0/0.png</href>
+        <href>../../tiles/zaralek_caverns/2/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -190,7 +190,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/1/0.png</href>
+        <href>../../tiles/zaralek_caverns/2/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -217,7 +217,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/2/0.png</href>
+        <href>../../tiles/zaralek_caverns/2/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -244,7 +244,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/0/1.png</href>
+        <href>../../tiles/zaralek_caverns/2/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -271,7 +271,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/1/1.png</href>
+        <href>../../tiles/zaralek_caverns/2/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -298,7 +298,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/2/1.png</href>
+        <href>../../tiles/zaralek_caverns/2/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -325,7 +325,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/0/2.png</href>
+        <href>../../tiles/zaralek_caverns/2/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -352,7 +352,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/1/2.png</href>
+        <href>../../tiles/zaralek_caverns/2/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -379,7 +379,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/2/2/2.png</href>
+        <href>../../tiles/zaralek_caverns/2/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -406,7 +406,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/0/0.png</href>
+        <href>../../tiles/zaralek_caverns/3/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -433,7 +433,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/1/0.png</href>
+        <href>../../tiles/zaralek_caverns/3/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -460,7 +460,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/2/0.png</href>
+        <href>../../tiles/zaralek_caverns/3/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -487,7 +487,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/3/0.png</href>
+        <href>../../tiles/zaralek_caverns/3/3/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -514,7 +514,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/4/0.png</href>
+        <href>../../tiles/zaralek_caverns/3/4/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -541,7 +541,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/5/0.png</href>
+        <href>../../tiles/zaralek_caverns/3/5/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -568,7 +568,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/0/1.png</href>
+        <href>../../tiles/zaralek_caverns/3/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -595,7 +595,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/1/1.png</href>
+        <href>../../tiles/zaralek_caverns/3/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -622,7 +622,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/2/1.png</href>
+        <href>../../tiles/zaralek_caverns/3/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -649,7 +649,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/3/1.png</href>
+        <href>../../tiles/zaralek_caverns/3/3/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -676,7 +676,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/4/1.png</href>
+        <href>../../tiles/zaralek_caverns/3/4/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -703,7 +703,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/5/1.png</href>
+        <href>../../tiles/zaralek_caverns/3/5/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -730,7 +730,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/0/2.png</href>
+        <href>../../tiles/zaralek_caverns/3/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -757,7 +757,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/1/2.png</href>
+        <href>../../tiles/zaralek_caverns/3/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -784,7 +784,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/2/2.png</href>
+        <href>../../tiles/zaralek_caverns/3/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -811,7 +811,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/3/2.png</href>
+        <href>../../tiles/zaralek_caverns/3/3/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -838,7 +838,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/4/2.png</href>
+        <href>../../tiles/zaralek_caverns/3/4/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -865,7 +865,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/5/2.png</href>
+        <href>../../tiles/zaralek_caverns/3/5/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -892,7 +892,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/0/3.png</href>
+        <href>../../tiles/zaralek_caverns/3/0/3.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -919,7 +919,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/1/3.png</href>
+        <href>../../tiles/zaralek_caverns/3/1/3.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -946,7 +946,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/2/3.png</href>
+        <href>../../tiles/zaralek_caverns/3/2/3.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -973,7 +973,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/3/3.png</href>
+        <href>../../tiles/zaralek_caverns/3/3/3.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -1000,7 +1000,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/4/3.png</href>
+        <href>../../tiles/zaralek_caverns/3/4/3.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -1027,7 +1027,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/5/3.png</href>
+        <href>../../tiles/zaralek_caverns/3/5/3.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -1054,7 +1054,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/0/4.png</href>
+        <href>../../tiles/zaralek_caverns/3/0/4.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -1081,7 +1081,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/1/4.png</href>
+        <href>../../tiles/zaralek_caverns/3/1/4.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -1108,7 +1108,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/2/4.png</href>
+        <href>../../tiles/zaralek_caverns/3/2/4.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -1135,7 +1135,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/3/4.png</href>
+        <href>../../tiles/zaralek_caverns/3/3/4.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -1162,7 +1162,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/4/4.png</href>
+        <href>../../tiles/zaralek_caverns/3/4/4.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -1189,7 +1189,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/5/4.png</href>
+        <href>../../tiles/zaralek_caverns/3/5/4.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -1216,7 +1216,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/0/5.png</href>
+        <href>../../tiles/zaralek_caverns/3/0/5.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -1243,7 +1243,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/1/5.png</href>
+        <href>../../tiles/zaralek_caverns/3/1/5.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -1270,7 +1270,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/2/5.png</href>
+        <href>../../tiles/zaralek_caverns/3/2/5.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -1297,7 +1297,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/3/5.png</href>
+        <href>../../tiles/zaralek_caverns/3/3/5.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -1324,7 +1324,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/4/5.png</href>
+        <href>../../tiles/zaralek_caverns/3/4/5.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -1351,7 +1351,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/3/5/5.png</href>
+        <href>../../tiles/zaralek_caverns/3/5/5.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -1378,7 +1378,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1405,7 +1405,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1432,7 +1432,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1459,7 +1459,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1486,7 +1486,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1513,7 +1513,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1540,7 +1540,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1567,7 +1567,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1594,7 +1594,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1621,7 +1621,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1648,7 +1648,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/0.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -1675,7 +1675,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1702,7 +1702,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1729,7 +1729,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1756,7 +1756,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1783,7 +1783,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1810,7 +1810,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1837,7 +1837,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1864,7 +1864,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1891,7 +1891,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1918,7 +1918,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1945,7 +1945,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/1.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/1.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -1972,7 +1972,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -1999,7 +1999,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2026,7 +2026,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2053,7 +2053,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2080,7 +2080,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2107,7 +2107,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2134,7 +2134,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2161,7 +2161,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2188,7 +2188,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2215,7 +2215,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2242,7 +2242,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/2.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -2269,7 +2269,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2296,7 +2296,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2323,7 +2323,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2350,7 +2350,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2377,7 +2377,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2404,7 +2404,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2431,7 +2431,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2458,7 +2458,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2485,7 +2485,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2512,7 +2512,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2539,7 +2539,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/3.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -2566,7 +2566,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2593,7 +2593,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2620,7 +2620,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2647,7 +2647,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2674,7 +2674,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2701,7 +2701,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2728,7 +2728,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2755,7 +2755,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2782,7 +2782,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2809,7 +2809,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2836,7 +2836,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/4.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -2863,7 +2863,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -2890,7 +2890,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -2917,7 +2917,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -2944,7 +2944,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -2971,7 +2971,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -2998,7 +2998,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -3025,7 +3025,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -3052,7 +3052,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -3079,7 +3079,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -3106,7 +3106,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -3133,7 +3133,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/5.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -3160,7 +3160,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3187,7 +3187,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3214,7 +3214,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3241,7 +3241,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3268,7 +3268,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3295,7 +3295,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3322,7 +3322,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3349,7 +3349,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3376,7 +3376,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3403,7 +3403,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3430,7 +3430,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/6.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/6.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -3457,7 +3457,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3484,7 +3484,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3511,7 +3511,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3538,7 +3538,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3565,7 +3565,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3592,7 +3592,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3619,7 +3619,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3646,7 +3646,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3673,7 +3673,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3700,7 +3700,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3727,7 +3727,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/7.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/7.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -3754,7 +3754,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3781,7 +3781,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3808,7 +3808,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3835,7 +3835,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3862,7 +3862,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3889,7 +3889,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3916,7 +3916,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3943,7 +3943,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3970,7 +3970,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -3997,7 +3997,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -4024,7 +4024,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/8.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/8.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -4051,7 +4051,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4078,7 +4078,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4105,7 +4105,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4132,7 +4132,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4159,7 +4159,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4186,7 +4186,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4213,7 +4213,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4240,7 +4240,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4267,7 +4267,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4294,7 +4294,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4321,7 +4321,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/9.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/9.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -4348,7 +4348,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4375,7 +4375,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4402,7 +4402,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4429,7 +4429,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4456,7 +4456,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4483,7 +4483,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4510,7 +4510,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4537,7 +4537,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4564,7 +4564,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4591,7 +4591,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4618,7 +4618,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/10.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/10.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -4645,7 +4645,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/0/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/0/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4672,7 +4672,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/1/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/1/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4699,7 +4699,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/2/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/2/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4726,7 +4726,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/3/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/3/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4753,7 +4753,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/4/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/4/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4780,7 +4780,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/5/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/5/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4807,7 +4807,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/6/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/6/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4834,7 +4834,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/7/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/7/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4861,7 +4861,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/8/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/8/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4888,7 +4888,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/9/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/9/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4915,7 +4915,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/4/10/11.png</href>
+        <href>../../tiles/zaralek_caverns/4/10/11.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -4942,7 +4942,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -4969,7 +4969,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -4996,7 +4996,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5023,7 +5023,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5050,7 +5050,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5077,7 +5077,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5104,7 +5104,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5131,7 +5131,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5158,7 +5158,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5185,7 +5185,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5212,7 +5212,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5239,7 +5239,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5266,7 +5266,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5293,7 +5293,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5320,7 +5320,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5347,7 +5347,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5374,7 +5374,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5401,7 +5401,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5428,7 +5428,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5455,7 +5455,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5482,7 +5482,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5509,7 +5509,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/0.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/0.png</href>
       </Icon>
       <LatLonBox>
         <north>37.19720000</north>
@@ -5536,7 +5536,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5563,7 +5563,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5590,7 +5590,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5617,7 +5617,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5644,7 +5644,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5671,7 +5671,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5698,7 +5698,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5725,7 +5725,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5752,7 +5752,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5779,7 +5779,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5806,7 +5806,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5833,7 +5833,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5860,7 +5860,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5887,7 +5887,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5914,7 +5914,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5941,7 +5941,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5968,7 +5968,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -5995,7 +5995,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -6022,7 +6022,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -6049,7 +6049,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -6076,7 +6076,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -6103,7 +6103,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/1.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/1.png</href>
       </Icon>
       <LatLonBox>
         <north>37.09220000</north>
@@ -6130,7 +6130,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6157,7 +6157,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6184,7 +6184,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6211,7 +6211,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6238,7 +6238,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6265,7 +6265,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6292,7 +6292,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6319,7 +6319,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6346,7 +6346,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6373,7 +6373,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6400,7 +6400,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6427,7 +6427,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6454,7 +6454,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6481,7 +6481,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6508,7 +6508,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6535,7 +6535,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6562,7 +6562,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6589,7 +6589,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6616,7 +6616,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6643,7 +6643,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6670,7 +6670,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6697,7 +6697,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/2.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/2.png</href>
       </Icon>
       <LatLonBox>
         <north>36.98720000</north>
@@ -6724,7 +6724,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6751,7 +6751,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6778,7 +6778,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6805,7 +6805,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6832,7 +6832,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6859,7 +6859,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6886,7 +6886,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6913,7 +6913,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6940,7 +6940,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6967,7 +6967,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -6994,7 +6994,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7021,7 +7021,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7048,7 +7048,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7075,7 +7075,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7102,7 +7102,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7129,7 +7129,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7156,7 +7156,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7183,7 +7183,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7210,7 +7210,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7237,7 +7237,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7264,7 +7264,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7291,7 +7291,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/3.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/3.png</href>
       </Icon>
       <LatLonBox>
         <north>36.88220000</north>
@@ -7318,7 +7318,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7345,7 +7345,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7372,7 +7372,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7399,7 +7399,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7426,7 +7426,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7453,7 +7453,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7480,7 +7480,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7507,7 +7507,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7534,7 +7534,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7561,7 +7561,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7588,7 +7588,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7615,7 +7615,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7642,7 +7642,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7669,7 +7669,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7696,7 +7696,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7723,7 +7723,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7750,7 +7750,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7777,7 +7777,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7804,7 +7804,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7831,7 +7831,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7858,7 +7858,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7885,7 +7885,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/4.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/4.png</href>
       </Icon>
       <LatLonBox>
         <north>36.77720000</north>
@@ -7912,7 +7912,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -7939,7 +7939,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -7966,7 +7966,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -7993,7 +7993,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8020,7 +8020,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8047,7 +8047,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8074,7 +8074,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8101,7 +8101,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8128,7 +8128,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8155,7 +8155,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8182,7 +8182,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8209,7 +8209,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8236,7 +8236,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8263,7 +8263,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8290,7 +8290,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8317,7 +8317,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8344,7 +8344,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8371,7 +8371,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8398,7 +8398,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8425,7 +8425,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8452,7 +8452,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8479,7 +8479,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/5.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/5.png</href>
       </Icon>
       <LatLonBox>
         <north>36.67220000</north>
@@ -8506,7 +8506,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8533,7 +8533,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8560,7 +8560,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8587,7 +8587,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8614,7 +8614,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8641,7 +8641,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8668,7 +8668,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8695,7 +8695,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8722,7 +8722,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8749,7 +8749,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8776,7 +8776,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8803,7 +8803,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8830,7 +8830,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8857,7 +8857,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8884,7 +8884,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8911,7 +8911,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8938,7 +8938,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8965,7 +8965,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -8992,7 +8992,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -9019,7 +9019,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -9046,7 +9046,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -9073,7 +9073,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/6.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/6.png</href>
       </Icon>
       <LatLonBox>
         <north>36.56720000</north>
@@ -9100,7 +9100,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9127,7 +9127,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9154,7 +9154,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9181,7 +9181,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9208,7 +9208,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9235,7 +9235,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9262,7 +9262,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9289,7 +9289,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9316,7 +9316,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9343,7 +9343,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9370,7 +9370,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9397,7 +9397,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9424,7 +9424,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9451,7 +9451,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9478,7 +9478,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9505,7 +9505,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9532,7 +9532,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9559,7 +9559,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9586,7 +9586,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9613,7 +9613,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9640,7 +9640,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9667,7 +9667,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/7.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/7.png</href>
       </Icon>
       <LatLonBox>
         <north>36.46220000</north>
@@ -9694,7 +9694,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9721,7 +9721,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9748,7 +9748,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9775,7 +9775,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9802,7 +9802,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9829,7 +9829,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9856,7 +9856,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9883,7 +9883,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9910,7 +9910,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9937,7 +9937,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9964,7 +9964,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -9991,7 +9991,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10018,7 +10018,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10045,7 +10045,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10072,7 +10072,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10099,7 +10099,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10126,7 +10126,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10153,7 +10153,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10180,7 +10180,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10207,7 +10207,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10234,7 +10234,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10261,7 +10261,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/8.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/8.png</href>
       </Icon>
       <LatLonBox>
         <north>36.35720000</north>
@@ -10288,7 +10288,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10315,7 +10315,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10342,7 +10342,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10369,7 +10369,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10396,7 +10396,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10423,7 +10423,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10450,7 +10450,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10477,7 +10477,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10504,7 +10504,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10531,7 +10531,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10558,7 +10558,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10585,7 +10585,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10612,7 +10612,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10639,7 +10639,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10666,7 +10666,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10693,7 +10693,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10720,7 +10720,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10747,7 +10747,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10774,7 +10774,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10801,7 +10801,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10828,7 +10828,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10855,7 +10855,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/9.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/9.png</href>
       </Icon>
       <LatLonBox>
         <north>36.25220000</north>
@@ -10882,7 +10882,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -10909,7 +10909,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -10936,7 +10936,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -10963,7 +10963,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -10990,7 +10990,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11017,7 +11017,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11044,7 +11044,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11071,7 +11071,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11098,7 +11098,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11125,7 +11125,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11152,7 +11152,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11179,7 +11179,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11206,7 +11206,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11233,7 +11233,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11260,7 +11260,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11287,7 +11287,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11314,7 +11314,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11341,7 +11341,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11368,7 +11368,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11395,7 +11395,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11422,7 +11422,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11449,7 +11449,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/10.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/10.png</href>
       </Icon>
       <LatLonBox>
         <north>36.14720000</north>
@@ -11476,7 +11476,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11503,7 +11503,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11530,7 +11530,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11557,7 +11557,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11584,7 +11584,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11611,7 +11611,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11638,7 +11638,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11665,7 +11665,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11692,7 +11692,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11719,7 +11719,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11746,7 +11746,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11773,7 +11773,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11800,7 +11800,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11827,7 +11827,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11854,7 +11854,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11881,7 +11881,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11908,7 +11908,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11935,7 +11935,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11962,7 +11962,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -11989,7 +11989,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -12016,7 +12016,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -12043,7 +12043,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/11.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/11.png</href>
       </Icon>
       <LatLonBox>
         <north>36.04220000</north>
@@ -12070,7 +12070,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12097,7 +12097,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12124,7 +12124,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12151,7 +12151,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12178,7 +12178,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12205,7 +12205,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12232,7 +12232,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12259,7 +12259,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12286,7 +12286,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12313,7 +12313,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12340,7 +12340,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12367,7 +12367,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12394,7 +12394,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12421,7 +12421,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12448,7 +12448,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12475,7 +12475,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12502,7 +12502,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12529,7 +12529,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12556,7 +12556,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12583,7 +12583,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12610,7 +12610,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12637,7 +12637,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/12.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/12.png</href>
       </Icon>
       <LatLonBox>
         <north>35.93720000</north>
@@ -12664,7 +12664,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12691,7 +12691,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12718,7 +12718,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12745,7 +12745,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12772,7 +12772,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12799,7 +12799,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12826,7 +12826,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12853,7 +12853,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12880,7 +12880,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12907,7 +12907,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12934,7 +12934,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12961,7 +12961,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -12988,7 +12988,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13015,7 +13015,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13042,7 +13042,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13069,7 +13069,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13096,7 +13096,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13123,7 +13123,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13150,7 +13150,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13177,7 +13177,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13204,7 +13204,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13231,7 +13231,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/13.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/13.png</href>
       </Icon>
       <LatLonBox>
         <north>35.83220000</north>
@@ -13258,7 +13258,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13285,7 +13285,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13312,7 +13312,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13339,7 +13339,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13366,7 +13366,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13393,7 +13393,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13420,7 +13420,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13447,7 +13447,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13474,7 +13474,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13501,7 +13501,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13528,7 +13528,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13555,7 +13555,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13582,7 +13582,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13609,7 +13609,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13636,7 +13636,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13663,7 +13663,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13690,7 +13690,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13717,7 +13717,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13744,7 +13744,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13771,7 +13771,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13798,7 +13798,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13825,7 +13825,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/14.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/14.png</href>
       </Icon>
       <LatLonBox>
         <north>35.72720000</north>
@@ -13852,7 +13852,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -13879,7 +13879,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -13906,7 +13906,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -13933,7 +13933,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -13960,7 +13960,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -13987,7 +13987,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14014,7 +14014,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14041,7 +14041,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14068,7 +14068,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14095,7 +14095,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14122,7 +14122,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14149,7 +14149,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14176,7 +14176,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14203,7 +14203,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14230,7 +14230,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14257,7 +14257,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14284,7 +14284,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14311,7 +14311,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14338,7 +14338,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14365,7 +14365,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14392,7 +14392,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14419,7 +14419,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/15.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/15.png</href>
       </Icon>
       <LatLonBox>
         <north>35.62220000</north>
@@ -14446,7 +14446,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14473,7 +14473,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14500,7 +14500,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14527,7 +14527,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14554,7 +14554,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14581,7 +14581,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14608,7 +14608,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14635,7 +14635,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14662,7 +14662,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14689,7 +14689,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14716,7 +14716,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14743,7 +14743,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14770,7 +14770,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14797,7 +14797,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14824,7 +14824,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14851,7 +14851,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14878,7 +14878,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14905,7 +14905,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14932,7 +14932,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14959,7 +14959,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -14986,7 +14986,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -15013,7 +15013,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/16.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/16.png</href>
       </Icon>
       <LatLonBox>
         <north>35.51720000</north>
@@ -15040,7 +15040,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15067,7 +15067,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15094,7 +15094,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15121,7 +15121,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15148,7 +15148,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15175,7 +15175,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15202,7 +15202,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15229,7 +15229,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15256,7 +15256,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15283,7 +15283,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15310,7 +15310,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15337,7 +15337,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15364,7 +15364,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15391,7 +15391,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15418,7 +15418,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15445,7 +15445,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15472,7 +15472,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15499,7 +15499,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15526,7 +15526,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15553,7 +15553,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15580,7 +15580,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15607,7 +15607,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/17.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/17.png</href>
       </Icon>
       <LatLonBox>
         <north>35.41220000</north>
@@ -15634,7 +15634,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15661,7 +15661,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15688,7 +15688,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15715,7 +15715,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15742,7 +15742,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15769,7 +15769,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15796,7 +15796,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15823,7 +15823,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15850,7 +15850,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15877,7 +15877,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15904,7 +15904,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15931,7 +15931,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15958,7 +15958,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -15985,7 +15985,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16012,7 +16012,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16039,7 +16039,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16066,7 +16066,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16093,7 +16093,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16120,7 +16120,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16147,7 +16147,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16174,7 +16174,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16201,7 +16201,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/18.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/18.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30720000</north>
@@ -16228,7 +16228,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16255,7 +16255,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16282,7 +16282,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16309,7 +16309,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16336,7 +16336,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16363,7 +16363,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16390,7 +16390,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16417,7 +16417,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16444,7 +16444,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16471,7 +16471,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16498,7 +16498,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16525,7 +16525,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16552,7 +16552,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16579,7 +16579,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16606,7 +16606,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16633,7 +16633,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16660,7 +16660,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16687,7 +16687,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16714,7 +16714,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16741,7 +16741,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16768,7 +16768,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16795,7 +16795,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/19.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/19.png</href>
       </Icon>
       <LatLonBox>
         <north>35.20220000</north>
@@ -16822,7 +16822,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -16849,7 +16849,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -16876,7 +16876,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -16903,7 +16903,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -16930,7 +16930,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -16957,7 +16957,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -16984,7 +16984,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17011,7 +17011,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17038,7 +17038,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17065,7 +17065,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17092,7 +17092,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17119,7 +17119,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17146,7 +17146,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17173,7 +17173,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17200,7 +17200,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17227,7 +17227,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17254,7 +17254,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17281,7 +17281,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17308,7 +17308,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17335,7 +17335,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17362,7 +17362,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17389,7 +17389,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/20.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/20.png</href>
       </Icon>
       <LatLonBox>
         <north>35.09720000</north>
@@ -17416,7 +17416,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17443,7 +17443,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17470,7 +17470,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17497,7 +17497,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17524,7 +17524,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17551,7 +17551,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17578,7 +17578,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17605,7 +17605,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17632,7 +17632,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17659,7 +17659,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17686,7 +17686,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17713,7 +17713,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17740,7 +17740,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17767,7 +17767,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17794,7 +17794,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17821,7 +17821,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17848,7 +17848,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17875,7 +17875,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17902,7 +17902,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17929,7 +17929,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17956,7 +17956,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -17983,7 +17983,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/21.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/21.png</href>
       </Icon>
       <LatLonBox>
         <north>34.99220000</north>
@@ -18010,7 +18010,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18037,7 +18037,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18064,7 +18064,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18091,7 +18091,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18118,7 +18118,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18145,7 +18145,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18172,7 +18172,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18199,7 +18199,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18226,7 +18226,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18253,7 +18253,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18280,7 +18280,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18307,7 +18307,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18334,7 +18334,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18361,7 +18361,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18388,7 +18388,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18415,7 +18415,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18442,7 +18442,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18469,7 +18469,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18496,7 +18496,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18523,7 +18523,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18550,7 +18550,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18577,7 +18577,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/22.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/22.png</href>
       </Icon>
       <LatLonBox>
         <north>34.88720000</north>
@@ -18604,7 +18604,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/0/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/0/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18631,7 +18631,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/1/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/1/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18658,7 +18658,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/2/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/2/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18685,7 +18685,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/3/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/3/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18712,7 +18712,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/4/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/4/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18739,7 +18739,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/5/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/5/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18766,7 +18766,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/6/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/6/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18793,7 +18793,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/7/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/7/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18820,7 +18820,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/8/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/8/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18847,7 +18847,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/9/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/9/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18874,7 +18874,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/10/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/10/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18901,7 +18901,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/11/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/11/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18928,7 +18928,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/12/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/12/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18955,7 +18955,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/13/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/13/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -18982,7 +18982,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/14/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/14/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -19009,7 +19009,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/15/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/15/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -19036,7 +19036,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/16/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/16/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -19063,7 +19063,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/17/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/17/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -19090,7 +19090,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/18/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/18/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -19117,7 +19117,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/19/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/19/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -19144,7 +19144,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/20/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/20/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>
@@ -19171,7 +19171,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/zaralek_caverns/5/21/23.png</href>
+        <href>../../tiles/zaralek_caverns/5/21/23.png</href>
       </Icon>
       <LatLonBox>
         <north>34.78220000</north>

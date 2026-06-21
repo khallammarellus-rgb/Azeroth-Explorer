@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/dragon_isles/overview_silhouette.png</href>
+        <href>../../tiles/dragon_isles/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>48.74091100</north>

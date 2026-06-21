@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_exilesreach/overview_silhouette.png</href>
+        <href>../../tiles/misc_exilesreach/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>9.95284300</north>

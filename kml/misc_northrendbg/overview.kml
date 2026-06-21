@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_northrendbg/overview_silhouette.png</href>
+        <href>../../tiles/misc_northrendbg/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>52.21592200</north>
@@ -50,7 +50,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_northrendbg/overview_detail.png</href>
+        <href>../../tiles/misc_northrendbg/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>52.21592200</north>

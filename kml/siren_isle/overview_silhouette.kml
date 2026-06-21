@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/siren_isle/overview_silhouette.png</href>
+        <href>../../tiles/siren_isle/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>2.71160000</north>

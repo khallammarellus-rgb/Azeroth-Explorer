@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/mardum/0/0/0.png</href>
+        <href>../../tiles/mardum/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>5.55670000</north>

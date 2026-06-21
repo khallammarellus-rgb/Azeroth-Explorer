@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/wandering_isle/overview_silhouette.png</href>
+        <href>../../tiles/wandering_isle/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>-10.17336100</north>

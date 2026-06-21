@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_islands802/overview_silhouette.png</href>
+        <href>../../tiles/misc_islands802/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>35.30996900</north>

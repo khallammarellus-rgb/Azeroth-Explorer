@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/eastern_kingdoms/overview_planet.png</href>
+        <href>../../tiles/eastern_kingdoms/overview_planet.png</href>
       </Icon>
       <LatLonBox>
         <north>47.78680000</north>

@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/kul_tiras/overview_theater.png</href>
+        <href>../../tiles/kul_tiras/overview_theater.png</href>
       </Icon>
       <LatLonBox>
         <north>31.88153000</north>

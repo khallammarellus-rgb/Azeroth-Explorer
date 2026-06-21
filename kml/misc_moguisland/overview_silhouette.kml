@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_moguisland/overview_silhouette.png</href>
+        <href>../../tiles/misc_moguisland/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>2.80561000</north>

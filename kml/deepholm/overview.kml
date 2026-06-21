@@ -28,7 +28,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/deepholm/0/0/0.png</href>
+        <href>../../tiles/deepholm/0/0/0.png</href>
       </Icon>
       <LatLonBox>
         <north>22.77590000</north>

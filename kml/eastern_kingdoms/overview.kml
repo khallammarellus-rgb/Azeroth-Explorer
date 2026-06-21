@@ -26,7 +26,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/eastern_kingdoms/overview_silhouette.png</href>
+        <href>../../tiles/eastern_kingdoms/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>47.78680000</north>
@@ -51,7 +51,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/eastern_kingdoms/overview_planet.png</href>
+        <href>../../tiles/eastern_kingdoms/overview_planet.png</href>
       </Icon>
       <LatLonBox>
         <north>47.78680000</north>
@@ -76,7 +76,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/eastern_kingdoms/overview_theater.png</href>
+        <href>../../tiles/eastern_kingdoms/overview_theater.png</href>
       </Icon>
       <LatLonBox>
         <north>47.78680000</north>
@@ -100,7 +100,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/eastern_kingdoms/overview_detail.png</href>
+        <href>../../tiles/eastern_kingdoms/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>47.78680000</north>

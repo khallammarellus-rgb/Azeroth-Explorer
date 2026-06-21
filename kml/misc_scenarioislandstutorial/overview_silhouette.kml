@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_scenarioislandstutorial/overview_silhouette.png</href>
+        <href>../../tiles/misc_scenarioislandstutorial/overview_silhouette.png</href>
       </Icon>
       <LatLonBox>
         <north>17.72263400</north>

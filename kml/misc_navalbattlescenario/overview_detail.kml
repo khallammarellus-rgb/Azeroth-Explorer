@@ -17,7 +17,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/misc_navalbattlescenario/overview_detail.png</href>
+        <href>../../tiles/misc_navalbattlescenario/overview_detail.png</href>
       </Icon>
       <LatLonBox>
         <north>13.93511100</north>

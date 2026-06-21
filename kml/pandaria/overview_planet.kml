@@ -18,7 +18,7 @@
         </Lod>
       </Region>
       <Icon>
-        <href>tiles/pandaria/overview_planet.png</href>
+        <href>../../tiles/pandaria/overview_planet.png</href>
       </Icon>
       <LatLonBox>
         <north>2.13000000</north>
