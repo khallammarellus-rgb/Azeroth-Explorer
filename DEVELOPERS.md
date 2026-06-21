@@ -1,18 +1,19 @@
 # Azeroth Explorer — developer notes
 
-This folder is synced from **WoW Commander Alpha Project**. Do not edit map tiles here by hand.
+Built from **WoW Commander Alpha Project**.
 
-## Refresh from Commander
+## Refresh
 
 ```bash
 cd "../WoW Commander Alpha Project"
 python3 scripts/sync_explorer_project.py --push
 ```
 
-Or double-click **Sync Explorer Project.command**.
+## Git publish
 
-## Publish the map zip
+Default `--push` uploads tiles in ~1 GB batches so GitHub accepts the repo.
+Release zips are split into ~1 GB parts under `exports/` for GitHub Releases.
 
-Upload `exports/Azeroth-Explorer-3.0.0-MAP.zip` to GitHub Releases on this repo.
+## Open locally
 
-Enable GitHub Pages: Settings → Pages → main → /docs
+File → Open → `Azeroth Explorer.kml` (keep `kml/` and `tiles/` alongside it).

@@ -47,8 +47,9 @@
     "misc_northrendbg"
   ],
   "region_count": 34,
-  "package_layout": "split_parts",
+  "package_layout": "single_zip",
   "split_mb": null,
   "full_zip": "Azeroth-Explorer-3.0.0-MAP.zip",
+  "tile_files": 36845,
   "part_count": 0
 }
