@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Map data — too large for git; ship via GitHub Releases
+tiles/
+exports/
+*.zip
+*.z01
+*.z02
+*.z03
+*.z04
+*.z05
